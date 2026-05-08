@@ -1,1853 +1,1562 @@
 [
   {
-    "question": "Câu 1: Nguyên nhân nào sau đây gây viêm phổi thùy thường gặp nhất:",
-    "options": ["Virus cúm", "Phế cầu", "Liên cầu", "Nấm"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 2: Tác nhân nào sau đây KHÔNG gây viêm phổi:",
-    "options": ["Vi khuẩn, virus", "Ký sinh trùng, nấm", "Hóa chất", "Tiền sử gia đình"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 3: Tính chất đờm hay gặp nhất của viêm phổi thùy ở giai đoạn toàn phát là:",
-    "options": ["Đờm vàng", "Đờm xanh", "Đờm màu rỉ sắt", "Trắng trong, dính"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 4: Biện pháp tốt nhất để tránh sự lây lan của vi khuẩn trong viêm phổi là:",
-    "options": ["Hạn chế tiếp xúc", "Vệ sinh buồng bệnh", "Xử lý tốt chất thải (đờm)", "Rửa tay đúng quy trình"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 5: Tác nhân gây viêm phổi nặng do nhiễm trùng bệnh viện hay gặp nhất:",
-    "options": ["Phế cầu", "Liên cầu", "Tụ cầu vàng", "Virus cúm"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 6: Triệu chứng lâm sàng KHÔNG điển hình của bệnh viêm phổi:",
-    "options": ["Sốt cao, rét run", "Đau thắt ngực", "Ho, khạc đờm", "Khó thở"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 7: Trong bệnh viêm phổi, triệu chứng ho khan xuất hiện trong thời kì nào:",
-    "options": ["Ủ bệnh", "Khởi phát", "Toàn phát", "Lui bệnh"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 8: Tác hại của khói thuốc lá với người viêm phổi, NGOẠI TRỪ:",
-    "options": ["Hủy hoại lông chuyển", "Tăng chế tiết nhầy", "Giảm đại thực bào", "Khô niêm mạc, giảm chế tiết"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 9: Kiểu khó thở nào sau đây gặp trong viêm phổi:",
-    "options": ["Khó thở từng cơn, 2 thì", "Khó thở liên tục, 2 thì", "Khó thở từng cơn, thì thở ra", "Khó thở liên tục, thì thở ra"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 10: Câu nào KHÔNG PHÙ HỢP khi GDSK cho người bệnh viêm phổi ra viện:",
-    "options": ["Bệnh cấp tính nên làm việc bình thường ngay", "Chế độ dinh dưỡng phù hợp", "Tiêm phòng cúm", "Giữ ấm mùa đông"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 11: Xét nghiệm cận lâm sàng KHÔNG cần làm cho người bệnh viêm phổi:",
-    "options": ["Xquang phổi", "Xét nghiệm đờm", "Xét nghiệm máu", "Siêu âm phổi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 12: Biện pháp tốt nhất phòng chống sự lây lan vi khuẩn viêm phổi:",
-    "options": ["Vệ sinh buồng bệnh", "Vệ sinh cá nhân", "Thoáng khí", "Xử lý chất thải đúng quy định"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 13: Dấu hiệu quan trọng nhất nhận định suy hô hấp nặng ở BN viêm phổi:",
-    "options": ["Ho khan dữ dội", "Nhịp thở tăng, tím tái", "Đau ngực nhiều", "Mạch nhanh"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 14: Nguyên nhân hen phế quản KHÔNG do dị ứng là:",
-    "options": ["Virus cúm", "Thực phẩm", "Thuốc", "Tiền sử gia đình"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 15: Nguyên nhân hen phế quản DO dị ứng là:",
-    "options": ["Di truyền", "Thời tiết lạnh", "Bụi nhà, phấn hoa", "Gắng sức"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 16: Tính chất đờm đặc hiệu của bệnh hen phế quản là:",
-    "options": ["Đờm nhầy mủ loãng", "Đờm nhầy mủ xanh", "Đờm hồng có bọt", "Đờm trắng dính"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 17: Biện pháp có giá trị nhất giúp người bệnh hen phế quản dễ thở:",
-    "options": ["Tư thế Fowler", "Hút đờm dãi", "Thở oxy", "Dùng thuốc giãn phế quản"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 18: Cơn khó thở trong hen phế quản thường xảy ra:",
-    "options": ["Ban đêm", "Ban ngày", "Theo chu kì", "Đột ngột"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 19: Đặc điểm khó thở trong hen phế quản là:",
-    "options": ["Khó thở nhanh thì thở ra", "Khó thở chậm thì thở ra", "Khó thở nhanh thì hít vào", "Khó thở cả 2 thì"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 20: Các yếu tố làm khởi phát cơn hen, NGOẠI TRỪ:",
-    "options": ["Dị ứng", "Nhiễm khuẩn", "Yếu tố vật lý", "Yếu tố hóa học"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 43: Yếu tố gây ảnh hưởng đến kết quả đo huyết áp:",
-    "options": ["Người bệnh lo lắng", "Bệnh nhân ăn no", "Thời tiết", "Vừa dùng thuốc HA"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 44: Thời gian nghỉ ngơi trước khi đo huyết áp ít nhất là:",
-    "options": ["5 phút", "10 phút", "20 phút", "15 phút"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 45: Tư thế đo huyết áp ĐÚNG là:",
-    "options": ["Nằm nghiêng", "Ngồi bắt chéo chân", "Nằm ngửa hoặc ngồi", "Đứng"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 46: Vị trí đặt máy đo huyết áp:",
-    "options": ["Cao hơn tim", "Ngang mức với tim", "Thấp hơn tim", "Tùy ý"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 47: Trị số huyết áp tâm thu/tâm trương bình thường ở người lớn là:",
-    "options": ["120/80 mmHg", "130/85 mmHg", "140/90 mmHg", "110/70 mmHg"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 48: Dấu hiệu giá trị nhất chẩn đoán tăng huyết áp:",
-    "options": ["Nhức đầu, hoa mắt", "Chóng mặt", "Đau thắt ngực", "Đo huyết áp nhiều lần thấy cao"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 49: HA tối đa 140-159 và/hoặc HA tối thiểu 90-99 mmHg được phân loại:",
-    "options": ["Tiền tăng HA", "Tăng HA độ 1", "Tăng HA độ 2", "Tăng HA độ 3"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 50: Theo JNC 7-2003, tăng huyết áp độ 2 khi:",
-    "options": ["HATT ≥ 140 và/hoặc HATTr ≥ 90", "HATT ≥ 150 và/hoặc HATTr ≥ 100", "HATT ≥ 160 và/hoặc HATTr ≥ 100", "HATT ≥ 170 và/hoặc HATTr ≥ 110"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 51: Tăng huyết áp độ 3 khi:",
-    "options": ["HATT ≥ 160", "HATTr ≥ 100", "HATT ≥ 170", "HATT ≥ 180 và/hoặc HATTr ≥ 110"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 52: Tăng huyết áp tâm thu đơn độc khi:",
-    "options": ["HATT < 140", "HATT ≥ 140 và HATTr < 90", "HATTr ≥ 90", "Cả HATT và HATTr đều cao"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 53: Biến chứng ở não của tăng huyết áp hay gặp là:",
-    "options": ["U não", "Tai biến mạch máu não", "Viêm não", "Thiếu máu não"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 54: Biến chứng ở tim của tăng huyết áp:",
-    "options": ["Hở van tim", "Viêm cơ tim", "Thông liên thất", "Suy tim, nhồi máu cơ tim"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 55: Biến chứng ở thận của tăng huyết áp:",
-    "options": ["Sỏi thận", "Viêm cầu thận", "Suy thận", "Thận đa nang"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 56: Biến chứng ở mắt của tăng huyết áp:",
-    "options": ["Cận thị", "Xuất huyết võng mạc", "Đục thủy tinh thể", "Viêm kết mạc"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 57: Tăng huyết áp gây biến chứng ở các cơ quan:",
-    "options": ["Tim, Não", "Thận", "Mắt", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 58: Mục đích điều trị tăng huyết áp:",
-    "options": ["Hết nhức đầu", "Hết chóng mặt", "Đạt HA mục tiêu và giảm biến chứng", "Uống thuốc suốt đời"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 59: Chế độ ăn cho người tăng huyết áp:",
-    "options": ["Ăn nhiều mỡ", "Giảm muối", "Ăn nhiều trứng", "Uống nhiều rượu"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 60: Hạn chế muối ở người tăng HA là không quá:",
-    "options": ["4g/ngày", "6g/ngày", "8g/ngày", "10g/ngày"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 61: Các yếu tố nguy cơ của tăng huyết áp:",
-    "options": ["Béo phì", "Hút thuốc lá", "Rối loạn mỡ máu", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 62: Chăm sóc người bệnh tăng huyết áp cần:",
-    "options": ["Theo dõi HA", "Dùng thuốc đúng", "Thay đổi lối sống", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 63: Nhịp tim được gọi là nhanh khi:",
-    "options": ["> 90 lần/phút", "> 100 lần/phút", "> 120 lần/phút", "> 140 lần/phút"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 71: Triệu chứng của suy tim trái:",
-    "options": ["Khó thở khi gắng sức", "Đau gan", "Xanh tím", "Tĩnh mạch cổ nổi"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 72: Triệu chứng của suy tim phải:",
-    "options": ["Phù phổi cấp", "Khó thở kịch phát", "Ho ra máu", "Gan to, tĩnh mạch cổ nổi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 73: Suy tim độ I theo NYHA là:",
-    "options": ["Không hạn chế hoạt động thể lực", "Hạn chế nhẹ", "Hạn chế nhiều", "Triệu chứng khi nghỉ"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 74: Suy tim độ II theo NYHA là:",
-    "options": ["Không hạn chế", "Hạn chế nhẹ hoạt động thể lực", "Hạn chế nhiều", "Triệu chứng khi nghỉ"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 75: Suy tim độ III theo NYHA là:",
-    "options": ["Không hạn chế", "Hạn chế nhẹ", "Hạn chế nhiều hoạt động thể lực", "Triệu chứng khi nghỉ"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 76: Suy tim độ IV theo NYHA là:",
-    "options": ["Không hạn chế", "Hạn chế nhẹ", "Hạn chế nhiều", "Triệu chứng xuất hiện cả khi nghỉ"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 77: Tư thế nằm cho người bệnh suy tim:",
-    "options": ["Nằm ngửa thấp", "Nằm đầu cao (Fowler)", "Nằm nghiêng trái", "Nằm sấp"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 78: Chế độ ăn cho người bệnh suy tim:",
-    "options": ["Ăn nhiều đạm", "Giảm muối, giảm nước", "Ăn nhiều mỡ", "Uống nhiều nước"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 79: Mục đích chăm sóc BN suy tim:",
-    "options": ["Giảm gánh nặng cho tim", "Cải thiện triệu chứng", "Phòng biến chứng", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 80: Khi BN dùng thuốc lợi tiểu, cần theo dõi:",
-    "options": ["Số lượng nước tiểu", "Điện giải đồ", "Cân nặng", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 81: Ngộ độc Digitalis biểu hiện:",
-    "options": ["Chán ăn, buồn nôn", "Nhịp tim chậm, loạn nhịp", "Nhìn mờ, vật vã", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 82: Dấu hiệu phù trong suy tim phải:",
-    "options": ["Phù cứng", "Phù buổi sáng", "Phù mềm, ấn lõm, tăng về chiều", "Phù toàn thân"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 83: Chế độ nghỉ ngơi BN suy tim độ IV:",
-    "options": ["Làm việc nhẹ", "Nghỉ ngơi tuyệt đối tại giường", "Đi bộ nhẹ", "Tập thể dục"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 84: X quang tim phổi BN suy tim trái thấy:",
-    "options": ["Tim phải to", "Tim trái to, phổi mờ", "Phổi sáng", "Bình thường"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 85: BN suy tim không nên:",
-    "options": ["Nghỉ ngơi", "Ăn nhạt", "Ăn mặn, làm việc nặng", "Dùng thuốc đúng"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 86: Nguyên nhân loét dạ dày tá tràng thường gặp nhất:",
-    "options": ["Căng thẳng", "Vi khuẩn HP", "Dùng thuốc Aspirin", "Ăn cay"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 87: Đặc điểm đau trong loét dạ dày:",
-    "options": ["Đau sau ăn 30p-2h", "Đau khi đói", "Đau về đêm", "Đau liên tục"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 88: Đặc điểm đau trong loét tá tràng:",
-    "options": ["Đau ngay sau ăn", "Đau khi đói, đau về đêm", "Đau sau ăn 4h", "Không đau"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 89: Biến chứng hay gặp nhất của loét dạ dày tá tràng:",
-    "options": ["Xuất huyết tiêu hóa", "Thủng dạ dày", "Hẹp môn vị", "Ung thư"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 90: Dấu hiệu thủng ổ loét dạ dày tá tràng:",
-    "options": ["Đau lâm râm", "Nôn ra máu", "Đau đột ngột, bụng cứng như gỗ", "Tiêu chảy"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 91: Xét nghiệm giá trị nhất chẩn đoán loét dạ dày tá tràng:",
-    "options": ["Xquang dạ dày", "Nội soi dạ dày tá tràng", "Xét nghiệm máu", "Siêu âm"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 122: Nhận định người bệnh xuất huyết tiêu hóa cần:",
-    "options": ["Tính chất nôn", "Tính chất phân", "Dấu hiệu sinh tồn", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 123: Màu sắc phân trong XHTH do loét dạ dày tá tràng:",
-    "options": ["Phân vàng", "Phân trắng", "Phân đen như nhựa đường, mùi khắm", "Phân có máu tươi"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 124: Chăm sóc BN XHTH mức độ nặng:",
-    "options": ["Nằm đầu cao", "Nằm đầu thấp, ủ ấm", "Cho ăn ngay", "Vận động nhẹ"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 125: Chế độ ăn BN XHTH đang chảy máu:",
-    "options": ["Ăn cháo", "Nhịn ăn hoàn toàn", "Uống sữa", "Ăn cơm"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 126: Khi BN hết chảy máu, cho ăn:",
-    "options": ["Ăn lỏng, nguội", "Ăn đặc", "Ăn cay", "Ăn mặn"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 127: Chẩn đoán điều dưỡng ĐÚNG khi bụng cứng như gỗ:",
-    "options": ["Đau do kích thích X", "Đau do dịch vị", "Đau do thủng ổ loét", "Đau do niêm mạc"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 128: Chẩn đoán điều dưỡng khi BN nôn máu nhiều, HA tụt:",
-    "options": ["Đau thượng vị", "Giảm thể tích tuần hoàn do XHTH", "Nguy cơ hẹp môn vị", "Lo lắng"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 129: BN loét lâu năm, nôn thức ăn cũ là biểu hiện:",
-    "options": ["Thủng dạ dày", "Chảy máu", "Hẹp môn vị", "Ung thư hóa"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 130: Thuốc kháng acid (Antacid) nên uống:",
-    "options": ["Trước ăn", "Sau ăn 1-3h và trước đi ngủ", "Trong khi ăn", "Lúc nào cũng được"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 131: Thuốc bọc niêm mạc (Sucralfat) nên uống:",
-    "options": ["Trước ăn 30p-1h", "Sau ăn", "Khi đau", "Trước đi ngủ"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 215: Nguyên nhân chính gây COPD:",
-    "options": ["Hút thuốc lá, thuốc lào", "Bụi bẩn", "Nhiễm khuẩn", "Di truyền"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 216: Triệu chứng điển hình của COPD:",
-    "options": ["Sốt cao", "Đau ngực", "Ho ra máu", "Ho, khạc đờm mạn tính và khó thở tiến triển"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 217: Chẩn đoán xác định COPD dựa vào:",
-    "options": ["Xquang", "Đo chức năng hô hấp", "Xét nghiệm máu", "Soi phế quản"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 218: Bệnh phổi tắc nghẽn mạn tính (COPD) KHÔNG bao gồm:",
-    "options": ["Viêm phế quản mạn", "Khí phế thũng", "Hen không hồi phục", "Viêm phổi thùy"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 219: BN COPD cần được hướng dẫn:",
-    "options": ["Nhịn thở", "Thở nhanh", "Cách ho hiệu quả và thở mím môi", "Vận động mạnh"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 220: Chế độ ăn cho BN COPD:",
-    "options": ["Ăn 1 bữa thật no", "Chia nhỏ bữa, giàu dinh dưỡng", "Ăn nhiều tinh bột", "Uống ít nước"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 221: Tai biến mạch máu não bao gồm:",
-    "options": ["Viêm não", "U não", "Nhồi máu não và xuất huyết não", "Chấn thương sọ não"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 222: Yếu tố nguy cơ quan trọng nhất của TBMMN:",
-    "options": ["Tăng huyết áp", "Đái tháo đường", "Béo phì", "Hút thuốc"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 223: Dấu hiệu nhận biết sớm TBMMN (FAST):",
-    "options": ["Méo miệng", "Yếu tay chân", "Khó nói", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 224: Chăm sóc BN liệt nửa người do TBMMN:",
-    "options": ["Chống loét", "Lăn trở 2h/lần", "Vỗ rung, tập vận động", "Cả A, B, C đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 29: Một người bệnh đi khám sức khỏe định kì đo huyết áp 150/90mmHg được phân vào:",
-    "options": ["Huyết áp bình thường", "Tăng huyết áp độ I", "Tăng huyết áp độ II", "Tăng huyết áp độ III"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 30: Cơn tăng huyết áp dễ xảy ra biến chứng khi trị số huyết áp tối thiểu:",
-    "options": ["90mmHg", "100mmHg", "110mmHg", ">120mmHg"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 31: Các xét nghiệm cận lâm sàng quan trọng dưới đây để theo dõi biến chứng của người bệnh tăng huyết áp, NGOẠI TRỪ:",
-    "options": ["Xét nghiệm nước tiểu", "Soi đáy mắt", "Điện tâm đồ", "Chức năng gan"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 32: Tăng huyết áp KHÔNG gây biến chứng cho các cơ quan:",
-    "options": ["Não", "Tim", "Thận", "Gan"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 33: Người bệnh tăng huyết áp cần tuân thủ các chế độ ăn sau đây, NGOẠI TRỪ:",
-    "options": ["Hạn chế muối", "Tăng cường chất xơ", "Hạn chế chất kích thích", "Tăng cường chất béo"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 34: Tổn thương sớm nhất mà tăng huyết áp có thể gây ra là:",
-    "options": ["Tổn thương động mạch võng mạc", "Dày thất trái", "Nhồi máu cơ tim", "Cơn hen tim"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 35: Người bệnh tăng huyết áp cần phải điều trị:",
-    "options": ["Thường xuyên và lâu dài", "Khi có một dấu hiệu tổn thương cơ quan đích", "Khi đo huyết áp thấy tăng", "Khi có các biến chứng ở các cơ quan đích"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 36: Nguyên nhân gây tăng huyết áp thứ phát là:",
-    "options": ["Bệnh xơ vữa động mạch", "Đái tháo đường", "Bệnh thận", "Tăng hoạt tính thần kinh giao cảm"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 37: Nguyên nhân gây tăng huyết áp nguyên phát là:",
-    "options": ["Bệnh tim mạch", "Bệnh tuyến thượng thận", "Thuốc", "Xơ vữa động mạch"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 38: Yếu tố nào sau đây KHÔNG PHẢI là yếu tố thuận lợi gây tăng huyết áp nguyên phát:",
-    "options": ["Tiền sử gia đình", "Chế độ ăn, uống", "Khí hậu", "Stress"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 39: Chẩn đoán tăng huyết áp khi:",
-    "options": ["HATT >140mmHg và HATTr >90mmHg", "HATT ≥140mmHg và/hoặc HATTr ≥90mmHg", "HATT ≥140mmHg hoặc HATTr ≥90mmHg", "HATT >150mmHg và/hoặc HATTr >100mmHg"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 40: Khi tiếp nhận người bệnh tăng huyết áp, các việc sau đây điều dưỡng viên cần làm, NGOẠI TRỪ:",
-    "options": ["Xác định các biểu hiện bất thường để báo bác sĩ ngay", "Cho người bệnh uống thuốc hạ áp", "Cho người bệnh nằm nghỉ tại chỗ", "Lấy dấu hiệu sinh tồn cho người bệnh"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 41: Khi cho người bệnh sử dụng thuốc hạ huyết áp, người điều dưỡng cần theo dõi huyết áp cho người bệnh:",
-    "options": ["Thường xuyên 15 phút/lần", "Sau khi dùng thuốc 2 giờ/lần", "Buổi sáng và buổi chiều", "Trước và sau khi dùng thuốc"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 42: Nguyên nhân nào sau đây KHÔNG thuộc nhóm nguyên nhân gây tăng huyết áp thứ phát:",
-    "options": ["Béo phì", "Bệnh lý về thận", "Bệnh lý liên quan đến nội tiết", "Nhiễm độc thai nghén"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 78: Dấu hiệu mà người điều dưỡng luôn tìm thấy khi nghe tim ở người bệnh suy tim phải chưa được điều trị là:",
-    "options": ["Tim nhanh", "Thổi tâm thu ở ổ van 3 lá", "Tiếng ngựa phi đầu tâm trương ở bên trái mũi ức", "Tiếng T2 mạnh ở ổ van động mạch phổi"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 79: Nguyên tắc xây dựng chế độ ăn cho người bệnh suy tim là:",
-    "options": ["Hạn chế muối", "Hạn chế calo", "Dễ hấp thu", "Không làm tăng gánh nặng cho tim"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 80: Khi cho người bệnh suy tim sử dụng thuốc lợi tiểu, những điều quan trọng sau đây mà người điều dưỡng cần phải chú ý theo dõi, NGOẠI TRỪ:",
-    "options": ["Cân nặng của người bệnh và tình trạng phù", "Lượng nước tiểu 24h", "Biểu hiện hạ kali máu", "Tình trạng bàng quang"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 81: Việc giáo dục sức khỏe cho người bệnh suy tim được coi là có kết quả khi:",
-    "options": ["Người bệnh tuân thủ chế độ chăm sóc và điều trị", "Người bệnh thực hiện chế độ ăn bệnh lý", "Người bệnh thực hiện đúng chế độ thuốc mà thầy thuốc chỉ dẫn", "Người bệnh hạn chế tối đa hoặc loại bỏ được các yếu tố nguy cơ"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 82: Khi người bệnh suy tim có dùng thuốc trợ tim, dấu hiệu quan trọng nhất cần theo dõi là:",
-    "options": ["Huyết áp trước và sau khi dùng thuốc", "Nhịp thở 1giờ/1 lần", "Tần số mạch trước và sau khi dùng thuốc", "Số lượng nước tiểu/24 giờ"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 83: Nguyên tắc xây dựng chế độ ăn cho bệnh nhân suy tim là:",
-    "options": ["Hạn chế protid từ động vật", "Hạn chế protid từ thực vật", "Hạn chế calo", "Hạn chế đường"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 84: Trước khi cho người bệnh suy tim dùng thuốc Digoxin, người điều dưỡng cần chú ý theo dõi:",
-    "options": ["Tần số mạch", "Nhịp thở", "Nhiệt độ", "Huyết áp"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 85: Biểu hiện giảm tưới máu tổ chức là:",
-    "options": ["Huyết áp tâm thu 90mmHg", "Tím môi và đầu chi", "Phù mềm hai chân", "Áp lực tĩnh mạch trung tâm 12 cmH2O"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 86: Biểu hiện giảm trao đổi khí ở phổi là:",
-    "options": ["Khó thở, thở nông, tần số thở 28 lần/phút", "Đau ngực", "Mệt nhọc, không chịu được hoạt động thể lực", "Ho, khò khè"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 87: Chế độ ăn cho bệnh nhân suy tim chưa có phù là:",
-    "options": ["Ăn bình thường", "Ăn nhạt tương đối", "Ăn nhạt tuyệt đối", "Ăn hạn chế protid"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 88: Bệnh nhân suy tim nặng có phù nhiều, chỉ nên ăn lượng muối trung bình là:",
-    "options": ["10g muối/ngày", "5 – 7g muối/ngày", "1 – 3g muối/ngày", "0,5g muối/ngày"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 89: Tư thế tốt nhất cho bệnh nhân suy tim nằm nghỉ ngơi là:",
-    "options": ["Đầu cao, kê cao chi", "Đầu thấp", "Tùy ý thích bệnh nhân", "Nửa nằm nửa ngồi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 90: Điều quan trọng nhất cần theo dõi khi cho bệnh nhân suy tim sử dụng thuốc lợi tiểu là:",
-    "options": ["Cân nặng của bệnh nhân giảm", "Mức độ phù của bệnh nhân", "Biểu hiện hạ kali máu", "Số lượng nước tiểu của bệnh nhân"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 91: Dấu hiệu điển hình của người bệnh mà người điều dưỡng thường nhận định gặp trong suy tim trái là:",
-    "options": ["Tiểu ít", "Tức ngực", "Phù", "Cơn khó thở kịch phát"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 92: Biện pháp chăm sóc nào sau đây không có tác dụng giảm phù cho bệnh nhân suy tim:",
-    "options": ["Cho bệnh nhân nằm tư thế Fowler, kê cao chi", "Thực hiện y lệnh thuốc lợi tiểu", "Hướng dẫn người bệnh chế độ ăn giảm muối và giảm nước", "Phụ giúp thầy thuốc chọc hút dịch màng bụng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 93: Người điều dưỡng chọn lựa nội dung nào sau đây khi giáo dục sức khỏe cho người bệnh suy tim:",
-    "options": ["Bệnh suy tim là bệnh nặng nên bệnh nhân cần phải điều trị nội khoa trong mọi giai đoạn của bệnh", "Bệnh suy tim là một bệnh điều trị rất tốn kém nên người bệnh có hoàn cảnh khó khăn thường bỏ dở điều trị giữa chừng", "Người bệnh suy tim có thể sống rất lâu nếu được phát hiện sớm, điều trị kịp thời và người bệnh tuân thủ nghiêm ngặt chế độ điều trị và chăm sóc", "Bệnh suy tim là bệnh di truyền nên không có biện pháp phòng bệnh"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 94: Phù ngoại vi trong suy tim có đặc điểm là:",
-    "options": ["Phù trắng, mềm, ấn không lõm và đau", "Phù tím, cứng, ấn lõm và đau", "Phù tím hay trắng, mềm, ấn lõm, không đau", "Phù trắng, mềm, ấn lõm và đau"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 95: Người điều dưỡng nhận định được dấu hiệu nào sau đây KHÔNG PHẢI là triệu chứng của suy tim:",
-    "options": ["Bệnh nhân tăng cân nhanh", "Mạch nhanh, không đều", "Khó thở khi gắng sức", "Huyết áp tối đa và tối thiểu đều tăng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 96: Tác dụng chủ yếu của việc nằm nghỉ ở tư thế nửa ngồi đối với người bệnh suy tim là:",
-    "options": ["Giảm sự chèn ép của các tạng trong ổ bụng", "Tạo điều kiện để phổi giãn nở tốt hơn", "Hạn chế sự ứ huyết ở phổi", "Hạn chế đông máu từ phía dưới lên phổi"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 97: Trong chế độ ăn của bệnh nhân suy tim độ I và độ II nên có lượng muối ăn < ... g/ngày:",
-    "options": ["0,5", "2", "4", "6"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 98: Chẩn đoán điều dưỡng nào sau đây KHÔNG ĐÚNG khi chăm sóc bệnh nhân suy tim:",
-    "options": ["Giảm tưới máu tổ chức do giảm chức năng co bóp cơ tim", "Giảm trao đổi khí ở phổi do tăng co thắt cơ hô hấp", "Giảm trao đổi khí ở phổi do ứ huyết phổi", "Phù do ứ trệ tuần hoàn ngoại biên"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 99: Nội dung quan trọng mà người điều dưỡng cần tư vấn cho người bệnh suy tim nhằm hạn chế tăng nhu cầu cơ thể là:",
-    "options": ["Tránh các sang chấn đột ngột: lạnh, đau, lo sợ", "Tiết chế trong dinh dưỡng", "Tập luyện thể thao vừa phải", "Sinh đẻ có kế hoạch"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 100: Yếu tố nào sau đây KHÔNG là nguyên nhân gây viêm tụy cấp:",
-    "options": ["Nhiễm trùng", "Rượu", "Thuốc lá", "Nội soi mật tụy ngược dòng (ERCP)"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 101: Hai nguyên nhân gây viêm tụy cấp thường gặp nhất:",
-    "options": ["Rượu và sỏi mật", "Rượu và chấn thương", "Rượu và di truyền", "Sỏi mật và u tụy"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 102: Ký sinh trùng nào là nguyên nhân gây viêm tụy cấp thường gặp nhất:",
-    "options": ["Giun móc", "Lỵ trực trùng", "Sán lá gan", "Giun đũa"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 103: Triệu chứng cơ năng thường gặp nhất của viêm tụy cấp là:",
-    "options": ["Nôn ói", "Vàng mắt", "Đau bụng", "Sốt"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 104: Viêm tụy cấp có thể dẫn đến biến chứng:",
-    "options": ["Áp xe tụy", "Nang giả tụy", "Viêm tụy hoại tử", "Cả 3 đáp án đều đúng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 105: Tính chất của cơn đau bụng trong viêm tụy cấp, NGOẠI TRỪ:",
-    "options": ["Tư thế giảm đau là nằm ngửa", "Đau bụng dữ dội, cấp tính", "Vị trí trên rốn lệch trái, lan sau lưng", "Khởi phát đột ngột, thường sau 1 bữa ăn no với thực phẩm nhiều dầu mỡ"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 106: Dung dịch nào được khuyến cáo dùng đầu tiên để bù dịch trong viêm tụy cấp:",
-    "options": ["Glucose 30%", "NaCl 0.9%", "Lactate Ringer", "Dextrose 5%"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 107: Thể lâm sàng phổ biến nhất của viêm tụy cấp là:",
-    "options": ["Nang giả tụy", "Hoại tử nhiễm trùng", "Hoại tử xuất huyết", "Phù nề"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 108: Dự phòng viêm tụy cấp, NGOẠI TRỪ:",
-    "options": ["Giảm cân", "Kiêng rượu, bia", "Tẩy giun định kỳ", "Chế độ ăn hợp lí máu"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 109: Loại thuốc giảm đau nào sau đây KHÔNG được chỉ định trong viêm tụy cấp:",
-    "options": ["Atrophin", "Dorlagan", "Morphin", "Visceralgin"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 110: Tác nhân KHÔNG gây bệnh loét dạ dày tá tràng là:",
-    "options": ["Vi khuẩn Helicobacter Pylori", "Yếu tố thần kinh", "Chế độ ăn, thức uống, các chất kích thích", "Yếu tố nội tiết"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 111: Vị trí đau thường gặp trong bệnh loét dạ dày tá tràng là:",
-    "options": ["Hạ sườn trái", "Thượng vị", "Hố chậu phải", "Hạ vị"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 112: Biểu hiện nào sau đây KHÔNG PHẢI là triệu chứng đau của loét tá tràng:",
-    "options": ["Đau thượng vị", "Đau có tính chất chu kì", "Kèm theo ợ hơi, ợ hơi, buồn nôn, nôn", "Đau ngay sau ăn"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 113: Biểu hiện nào sau đây KHÔNG PHẢI là triệu chứng của loét dạ dày:",
-    "options": ["Đau thượng vị", "Đau có tính chất chu kì", "Đau lúc đói hay vào ban đêm", "Kèm theo ợ hơi, ợ hơi, buồn nôn, nôn"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 114: Thuốc giảm đau nào sau đây là chống chỉ định cho bệnh nhân loét dạ dày tá tràng:",
-    "options": ["Atropin", "Papaverin", "Buscopan", "Aspirin"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 115: Thuốc nào sau đây là thuốc kháng tiết nhóm kháng Histamin:",
-    "options": ["Omeprazol", "Phosphalugel", "Cimetidine", "Maalox"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 116: Thuốc nào sau đây là thuốc kháng tiết nhóm ức chế bơm proton:",
-    "options": ["Ranitidin", "Pepsan", "Bismuth", "Pantoprazol"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 117: Nguyên nhân gây loét dạ dày tá tràng thường gặp là:",
-    "options": ["Tăng tiết dịch vị do dùng corticoid, do căng thẳng thần kinh", "Dùng các thuốc ảnh hưởng đến dạ dày, ăn uống không điều độ, stress, đau vùng thượng vị", "Do vi khuẩn, ăn thức ăn nguội lạnh, kích thích thần kinh, do dịch vị, do Aminasa", "Tăng tiết dịch vị trong dạ dày, vi khuẩn, thức ăn, dùng thuốc gây kích ứng dạ dày"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 118: Triệu chứng của loét dạ dày tá tràng là:",
-    "options": ["Đau hạ sườn phải, nôn ói", "Đau thượng vị, nôn, ợ hơi, ợ chua", "Đau hạ sườn trái, nôn ói, tiêu chảy", "Đau bụng, đi tiêu phân đen"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 119: Những nội dung mà người điều dưỡng cần tư vấn cho người bệnh loét dạ dày tá tràng là:",
-    "options": ["Điều trị nội khoa hiện nay là biện pháp chủ yếu đối với loét dạ dày – tá tràng", "Rượu, thuốc lá, cà phê, trà đặc không liên quan tới loét dạ dày – tá tràng", "Chế độ ăn càng lạnh càng tốt trong mọi giai đoạn bệnh để giảm đau", "Không bao giờ được chườm nóng để giảm đau nhằm tránh nguy cơ chảy máu"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 120: Xác định vị trí viêm loét dạ dày dựa vào:",
-    "options": ["Siêu âm bụng", "X-quang bụng", "Nội soi dạ dày", "Xét nghiệm độ pH trong dạ dày"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 121: Biến chứng hay gặp nhất của loét dạ dày – tá tràng là:",
-    "options": ["Xuất huyết tiêu hóa", "Hẹp môn vị", "Ung thư hóa", "Thủng dạ dày"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 122: Thuốc điều trị loét dạ dày tá tràng được chỉ định uống sau bữa ăn hoặc vào buổi tối là:",
-    "options": ["Kháng Axit", "Kháng tiết", "Kháng sinh", "Giảm đau"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 123: Đặc điểm đau KHÔNG thuộc bệnh lý loét dạ dày là:",
-    "options": ["Đau thượng vị", "Đau có tính chất chu kì", "Đau muộn sau ăn, đau khi đói", "Không nguy cơ ung thư hóa"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 124: Khi người bệnh loét dạ dày tá tràng xuất hiện dấu hiệu: đau như dao đâm vùng thượng vị, cần nghĩ đến biến chứng:",
-    "options": ["Xuất huyết tiêu hóa", "Hẹp môn vị", "Thủng dạ dày", "Ung thư hóa"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 125: Biện pháp nào sau đây KHÔNG có tác dụng giảm đau cho bệnh nhân viêm loét dạ dày tá tràng:",
-    "options": ["Chườm lạnh vùng thượng vị", "Không sử dụng các chất kích thích", "Nghỉ ngơi khi đau nhiều, tránh căng thẳng thần kinh", "Sử dụng thuốc giảm đau theo y lệnh bác sĩ"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 126: Chế độ ăn ĐÚNG cho bệnh nhân loét dạ dày tá tràng là:",
-    "options": ["Thức ăn mềm, tăng đạm, hạn chế béo", "Giàu dinh dưỡng, hạn chế kali", "Hạn chế gia vị, cà phê, thuốc lá", "Thức ăn mềm, giảm đạm, giảm muối"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 132: Nguyên nhân nào dưới đây KHÔNG gây bệnh xơ gan:",
-    "options": ["Do virus", "Do vi khuẩn", "Do rượu, thuốc", "Do tắc nghẽn đường mật mạn tính"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 133: Trong bệnh xơ gan mất bù, trên lâm sàng triệu chứng điển hình nhất là:",
-    "options": ["Hội chứng suy gan", "Hội chứng tăng urê máu", "Hội chứng tăng áp lực tĩnh mạch cửa", "Hội chứng tăng đường máu"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 134: Biện pháp nào sau đây KHÔNG để điều trị dự phòng bệnh xơ gan:",
-    "options": ["Hạn chế bia, rượu", "Tránh dùng thuốc độc cho gan", "Tránh dùng thuốc độc cho thận", "Tiêm phòng viêm gan siêu vi"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 135: Những biểu hiện lâm sàng sớm nhất của xơ gan giai đoạn còn bù là:",
-    "options": ["Trướng bụng, đầy hơi, tiêu chảy", "Mệt mỏi, chán ăn, sợ mỡ, khó tiêu kéo dài", "Chảy máu chân răng, chảy máu cam", "Tuần hoàn bàng hệ trên da bụng"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 136: Trong các biến chứng sau của xơ gan, biến chứng nào hay gặp và dễ gây tử vong nhanh nhất:",
-    "options": ["Chảy máu do vỡ tĩnh mạch thực quản", "Hôn mê gan", "Ung thư gan", "Nhiễm trùng và suy kiệt"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 137: Biến chứng của xơ gan là:",
-    "options": ["Áp xe gan", "Viêm túi mật", "Ung thư dạ dày", "Hôn mê gan"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 138: Dấu hiệu sớm nhất để phát hiện hôn mê gan là:",
-    "options": ["Mạch nhanh, huyết áp hạ", "Nhịp thở nhanh và rối loạn", "Thân nhiệt tăng", "Tri giác thay đổi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 139: Các dấu hiệu sau cần nhận định trên người bệnh xơ gan, NGOẠI TRỪ:",
+    "question": "Câu 1. Đặc điểm cấu tạo da trẻ em là:",
     "options": [
-      "Tiền sử bệnh liên quan như lỵ amip",
-      "Các vấn đề dinh dưỡng",
-      "Tình trạng phù, bụng báng",
-      "Tiền sử gia đình"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 140: Nguyên nhân nào dưới đây KHÔNG dẫn đến suy thận mạn:",
-    "options": [
-      "Đái tháo đường",
-      "Hội chứng thận hư",
-      "Thận đa nang",
-      "Nhiễm khuẩn tiết niệu"
+      "Da dày, ít nước, ít mao mạch",
+      "Da mềm mại, nhiều nước, nhiều mao mạch",
+      "Da khô, lớp sừng phát triển hoàn chỉnh",
+      "Da cứng, đàn hồi tốt"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 141: Nguyên nhân nào dưới đây KHÔNG dẫn đến suy thận mạn:",
+    "question": "Câu 2. Tuyến mồ hôi của trẻ trong 3–4 tháng đầu sau sinh có đặc điểm nào sau đây?",
     "options": [
-      "Sỏi thận gây ứ nước, ứ mủ",
-      "Viêm cầu thận mạn",
-      "Loạn sản thận",
-      "Viêm đa khớp"
+      "Phát triển và hoạt động mạnh",
+      "Chưa hình thành",
+      "Phát triển nhưng chưa hoạt động",
+      "Hoạt động tương tự người lớn"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
-    "question": "Câu 142: Suy thận mạn được chẩn đoán xác định khi mức lọc cầu thận <...% so với mức bình thường:",
+    "question": "Câu 3. Lớp chất gây màu trắng xám trên da trẻ sơ sinh có tác dụng:",
     "options": [
-      "< 30%",
-      "< 40%",
-      "< 50%",
-      "< 60%"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 143: Triệu chứng lâm sàng điển hình trong bệnh suy thận mạn là:",
-    "options": [
-      "Hội chứng tăng đường máu",
-      "Hội chứng tăng urê máu",
-      "Hội chứng suy tim",
-      "Hội chứng liệt nửa người"
+      "Chỉ giữ ẩm cho da",
+      "Bảo vệ, giữ nhiệt và miễn dịch",
+      "Chỉ có tác dụng thẩm mỹ",
+      "Là chất thải cần loại bỏ ngay"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 144: Suy thận mạn giai đoạn cuối được chỉ định chạy thận định kỳ:",
+    "question": "Câu 4. Lớp mỡ dưới da của trẻ được hình thành từ:",
     "options": [
-      "Mỗi tuần 1 lần",
-      "Mỗi tuần 2-3 lần",
-      "Mỗi tháng 3-4 lần",
-      "Mỗi tháng 5 lần"
+      "Tháng thứ 5–6 thai kỳ",
+      "Tháng thứ 6–7 thai kỳ",
+      "Tháng thứ 7–8 thai kỳ",
+      "Sau khi sinh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 5. Nguyên nhân khiến trẻ dễ bị cứng bì khi lạnh là do:",
+    "options": [
+      "Nhiều acid béo no",
+      "Ít mao mạch",
+      "Nhiều acid béo không no",
+      "Tuyến mồ hôi kém hoạt động"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 6. Chức năng bảo vệ của da trẻ còn hạn chế chủ yếu do:",
+    "options": [
+      "Da dày và ít mạch máu",
+      "Lớp sừng chưa hoàn chỉnh",
+      "Tuyến mồ hôi hoạt động mạnh",
+      "Lớp mỡ dưới da dày"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 145: Để phòng suy thận mạn:",
+    "question": "Câu 7. Da tham gia tổng hợp vitamin D dưới tác dụng của:",
     "options": [
-      "Điều trị nguyên nhân tích cực",
-      "Điều trị triệu chứng tích cực",
-      "Mỗi ngày uống nhiều nước hơn bình thường",
-      "Uống nhiều nước + dùng thuốc lợi tiểu"
+      "Ánh sáng hồng ngoại",
+      "Tia X",
+      "Tia cực tím",
+      "Ánh sáng nhân tạo"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
-    "question": "Câu 146: Những biểu hiện lâm sàng trong suy thận mạn có đặc điểm:",
+    "question": "Câu 8. Hệ cơ của trẻ sơ sinh chiếm khoảng bao nhiêu % trọng lượng cơ thể?",
     "options": [
-      "Xảy ra đột ngột",
-      "Biểu hiện âm thầm, kín đáo"
+      "15%",
+      "20%",
+      "23%",
+      "30%"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 9. Các cơ phát triển sớm ở trẻ em là:",
+    "options": [
+      "Cơ bàn tay, ngón tay",
+      "Cơ cổ và lưng",
+      "Cơ đùi, mông, vai",
+      "Cơ mặt"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 10. Tăng trương lực cơ sinh lý ở trẻ nhỏ biểu hiện bằng:",
+    "options": [
+      "Tay chân duỗi thẳng",
+      "Tay chân mềm nhẽo",
+      "Tay chân co, bàn tay nắm chặt",
+      "Co cứng toàn thân"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 11. Xương trẻ em dễ gãy kiểu “cành cây tươi” do:",
+    "options": [
+      "Ít nước, nhiều muối khoáng",
+      "Nhiều nước, ít muối khoáng",
+      "Quá trình cốt hóa hoàn chỉnh",
+      "Xương đặc, cứng"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 147: Suy thận mạn giai đoạn cuối khi mức lọc cầu thận:",
+    "question": "Câu 12. Thóp trước của trẻ thường kín vào thời điểm:",
     "options": [
-      "≤ 30 ml/phút",
-      "≤ 25 ml/phút",
-      "≤ 20 ml/phút",
-      "≤ 15 ml/phút"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 148: Chế độ ăn phù hợp cho bệnh nhân suy thận mạn:",
-    "options": [
-      "Giảm Calo, tăng Protit, giảm Natri, giảm Kali",
-      "Tăng Calo, Giảm Protit, giảm Natri, tăng Kali",
-      "Giảm Calo, giảm Protit, giảm Natri, tăng Kali",
-      "Tăng Calo, giảm Protit, giảm Natri, giảm Kali"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 149: Các vấn đề sau cần giáo dục sức khỏe cho bệnh nhân xơ gan là, NGOẠI TRỪ:",
-    "options": [
-      "Hạn chế muối hoặc ăn nhạt khi có phù",
-      "Tránh lao động nặng",
-      "Chỉ tái khám khi có các dấu hiệu bất thường",
-      "Tuyệt đối không uống rượu"
+      "6 tháng",
+      "9 tháng",
+      "12–18 tháng",
+      "24 tháng"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 150: Người bệnh bị xơ gan mất bù có biểu hiện sút cân, ăn uống kém, bụng chướng, vàng da, vàng mắt, không định hướng không gian, thời gian. Chẩn đoán điều dưỡng ưu tiên với tình trạng người bệnh trong tình huống trên là:",
+    "question": "Câu 13. Trẻ bắt đầu thay răng sữa bằng răng vĩnh viễn vào khoảng:",
     "options": [
-      "Dinh dưỡng không đảm bảo do ăn uống kém",
-      "Nguy cơ tổn thương da do tăng Bilirubin",
-      "Tiền hôn mê gan",
-      "Bụng chướng do tràn dịch màng bụng"
+      "4–5 tuổi",
+      "5–6 tuổi",
+      "6–7 tuổi",
+      "8–9 tuổi"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 151: Người bệnh bị xơ gan mất bù có biểu hiện sút cân, ăn uống kém, bụng chướng, vàng da, vàng mắt, không định hướng không gian, thời gian. Điều dưỡng thực hiện hành động can thiệp nào sau đây để giải quyết ưu tiên cho vấn đề sức khỏe người bệnh là:",
+    "question": "Câu 14. Phế quản phải rộng hơn phế quản trái nên:",
     "options": [
-      "Lập tức giảm đạm trong chế độ ăn",
-      "Đặt sonde dạ dày nuôi ăn",
-      "Phụ giúp Thầy thuốc chọc dịch màng bụng",
-      "Theo dõi xét nghiệm Bilirubin/máu"
+      "Ít bị viêm hơn",
+      "Dị vật dễ rơi vào bên phải",
+      "Dẫn khí kém hơn",
+      "Dễ xẹp phổi hơn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 15. Trẻ sơ sinh thở chủ yếu bằng:",
+    "options": [
+      "Thở ngực",
+      "Thở hỗn hợp",
+      "Thở cơ hoành",
+      "Thở miệng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 16. Nhịp thở trung bình của trẻ sơ sinh là:",
+    "options": [
+      "20–30 lần/phút",
+      "30–40 lần/phút",
+      "40–60 lần/phút",
+      "60–80 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 17. Thể tích khí lưu thông (Vt) của trẻ 1 tuổi khoảng:",
+    "options": [
+      "25 ml",
+      "50 ml",
+      "70 ml",
+      "120 ml"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 18. Tuần hoàn rau thai không tách biệt hoàn toàn do tồn tại:",
+    "options": [
+      "Van hai lá",
+      "Lỗ Botal và ống động mạch",
+      "Van động mạch chủ",
+      "Tĩnh mạch rốn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 19. Mạch trung bình của trẻ 1 tuổi là:",
+    "options": [
+      "80 lần/phút",
+      "90 lần/phút",
+      "100 lần/phút",
+      "120–125 lần/phút"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 20. Công thức tính huyết áp tối đa của trẻ trên 1 tuổi là:",
+    "options": [
+      "70 + 2n",
+      "80 + 2n",
+      "90 + n",
+      "100 + n"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 21. Cơ quan tạo máu chủ yếu sau sinh ở trẻ đủ tháng là:",
+    "options": [
+      "Gan",
+      "Lách",
+      "Tủy xương",
+      "Hạch lympho"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 22. Huyết sắc tố của trẻ sơ sinh có đặc điểm:",
+    "options": [
+      "Thấp hơn người lớn",
+      "Bằng người lớn",
+      "Cao hơn người lớn",
+      "Không thay đổi theo tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 23. Ở trẻ ≥ 1 tuổi, thành phần Hb chiếm tỷ lệ cao nhất là:",
+    "options": [
+      "HbF",
+      "HbA1",
+      "HbA2",
+      "HbE"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 24. Phân su của trẻ sơ sinh có đặc điểm:",
+    "options": [
+      "Màu vàng, mùi chua",
+      "Màu xanh thẫm, không mùi",
+      "Màu nâu, mùi nặng",
+      "Màu xám, nhiều vi khuẩn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 25. Dung tích dạ dày của trẻ 1 tuổi khoảng:",
+    "options": [
+      "100 ml",
+      "150 ml",
+      "200 ml",
+      "250 ml"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 26. Thận trẻ sơ sinh dễ di động do:",
+    "options": [
+      "Bao thận mỏng",
+      "Tổ chức mỡ quanh thận chưa phát triển",
+      "Thận nhỏ",
+      "Dây chằng yếu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 27. Chức năng lọc cầu thận của trẻ sơ sinh đạt khoảng bao nhiêu so với trẻ lớn?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 28. Số lần đi tiểu trung bình của trẻ 1 tuổi trong ngày là:",
+    "options": [
+      "6–8 lần",
+      "8–10 lần",
+      "12–16 lần",
+      "18–20 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 29. Công thức tính lượng nước tiểu 24 giờ cho trẻ 2–7 tuổi là:",
+    "options": [
+      "V = 500 + 50N",
+      "V = 600 + 100(N–1)",
+      "V = 700 + 50(N–1)",
+      "V = 800 + 100N"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 30. Tỷ trọng nước tiểu bình thường của trẻ em dao động trong khoảng:",
+    "options": [
+      "1,000 – 1,010",
+      "1,002 – 1,030",
+      "1,010 – 1,040",
+      "1,020 – 1,050"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 1. Cân nặng trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "2,0 – 2,4 kg",
+      "2,5 – 2,7 kg",
+      "2,8 – 3,0 kg",
+      "3,5 – 4,0 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 2. Trẻ sơ sinh có cân nặng dưới 2,5 kg thường được xếp vào nhóm:",
+    "options": [
+      "Trẻ quá to",
+      "Trẻ đủ tháng bình thường",
+      "Trẻ đẻ non, đẻ yếu hoặc SDD bào thai",
+      "Trẻ phát triển tốt"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 3. Trẻ được coi là quá to khi cân nặng lúc sinh từ:",
+    "options": [
+      "≥ 3,5 kg",
+      "≥ 3,8 kg",
+      "≥ 4,0 kg",
+      "≥ 4,2 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 4. Trong 6 tháng đầu đời, trung bình mỗi tháng trẻ tăng khoảng:",
+    "options": [
+      "400 g",
+      "500 g",
+      "600 g",
+      "700 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 5. Đến cuối năm đầu, cân nặng trẻ thường:",
+    "options": [
+      "Gấp 1,5 lần lúc sinh",
+      "Gấp 2 lần lúc sinh",
+      "Gấp 2,5 lần lúc sinh",
+      "Gấp 3 lần lúc sinh"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 6. Công thức tính cân nặng trẻ trong 6 tháng đầu là:",
+    "options": [
+      "P = Pđẻ + 400.n",
+      "P = Pđẻ + 500.n",
+      "P = Pđẻ + 600.n",
+      "P = Pđẻ + 700.n"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 7. Trong 6 tháng cuối năm đầu, trung bình mỗi tháng trẻ tăng:",
+    "options": [
+      "200 g",
+      "300 g",
+      "400 g",
+      "500 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 8. Trẻ sinh 3.000 g, 12 tháng tuổi, cân nặng ước tính là:",
+    "options": [
+      "8.200 g",
+      "8.600 g",
+      "9.000 g",
+      "9.600 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 9. Từ 1–9 tuổi, trung bình mỗi năm trẻ tăng cân khoảng:",
+    "options": [
+      "1,0 kg",
+      "1,2 kg",
+      "1,5 kg",
+      "2,0 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 10. Từ 10–15 tuổi, cân nặng trung bình mỗi năm tăng khoảng:",
+    "options": [
+      "2 kg",
+      "3 kg",
+      "4 kg",
+      "5 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 11. Chiều cao trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "45–47 cm",
+      "46–48 cm",
+      "48–50 cm",
+      "50–52 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 12. Trẻ sơ sinh có chiều cao dưới 45 cm thường là:",
+    "options": [
+      "Trẻ quá to",
+      "Trẻ đủ tháng",
+      "Trẻ đẻ non",
+      "Trẻ phát triển nhanh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 13. Trong năm đầu đời, chiều cao trẻ tăng thêm khoảng:",
+    "options": [
+      "18–20 cm",
+      "20–22 cm",
+      "22–23 cm",
+      "24–25 cm"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 14. Quý I năm đầu, trung bình mỗi tháng trẻ tăng chiều cao:",
+    "options": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "3,5 cm"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 15. Chiều cao trung bình của trẻ lúc 1 tuổi khoảng:",
+    "options": [
+      "70 cm",
+      "72 cm",
+      "75 cm",
+      "78 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 16. Trung bình mỗi năm sau 1 tuổi, chiều cao trẻ tăng khoảng:",
+    "options": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 17. Công thức tính chiều cao trẻ trên 1 tuổi là:",
+    "options": [
+      "H = 70 + 5(N–1)",
+      "H = 75 + 4(N–1)",
+      "H = 75 + 5(N–1)",
+      "H = 80 + 5(N–1)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 18. Vòng đầu trung bình của trẻ sơ sinh là:",
+    "options": [
+      "32 cm",
+      "33 cm",
+      "34 cm",
+      "35 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 19. Vòng đầu của trẻ 1 tuổi khoảng:",
+    "options": [
+      "44 cm",
+      "45 cm",
+      "46 cm",
+      "48 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 20. Lúc mới sinh, vòng ngực của trẻ so với vòng đầu thường:",
+    "options": [
+      "Bằng nhau",
+      "Lớn hơn 1–2 cm",
+      "Nhỏ hơn 1–2 cm",
+      "Nhỏ hơn 3–4 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 21. Ở thời điểm khoảng 6 tháng tuổi:",
+    "options": [
+      "Vòng ngực nhỏ hơn vòng đầu",
+      "Vòng ngực bằng vòng đầu",
+      "Vòng ngực lớn hơn vòng đầu",
+      "Không có sự thay đổi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 22. Vòng cánh tay dưới 12 cm ở trẻ 1–5 tuổi cho thấy:",
+    "options": [
+      "Trẻ phát triển bình thường",
+      "Trẻ thừa cân",
+      "Trẻ SDD nhẹ",
+      "Trẻ SDD nặng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 23. Tuyến nội tiết có vai trò quan trọng trong tăng trưởng thể chất, KHÔNG bao gồm:",
+    "options": [
+      "Tuyến yên",
+      "Tuyến giáp",
+      "Tuyến tụy",
+      "Tuyến sinh dục"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 24. Yếu tố ngoại sinh ảnh hưởng lớn nhất đến tăng trưởng trẻ em là:",
+    "options": [
+      "Di truyền",
+      "Dinh dưỡng",
+      "Giới tính",
+      "Tuổi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 25. Trẻ sơ sinh trung bình ngủ mỗi ngày khoảng:",
+    "options": [
+      "14–16 giờ",
+      "16–18 giờ",
+      "18–20 giờ",
+      "20–23 giờ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 26. Phản xạ Moro ở trẻ sơ sinh xuất hiện khi:",
+    "options": [
+      "Chạm vào lòng bàn tay",
+      "Chạm vào má",
+      "Vỗ vào thành giường",
+      "Đặt trẻ nằm sấp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 27. Trẻ khoảng 6 tháng tuổi có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Đi được một mình",
+      "Biết lạ, phân biệt mẹ và người lạ",
+      "Biết nói câu dài",
+      "Vẽ được hình tròn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 28. Trẻ 7–9 tháng tuổi thường có khả năng:",
+    "options": [
+      "Đi vững",
+      "Nói câu hoàn chỉnh",
+      "Bò giỏi và vịn đứng",
+      "Chạy nhanh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 29. Trẻ khoảng 18 tháng tuổi thường có khả năng nào sau đây?",
+    "options": [
+      "Nhảy một chân",
+      "Đi nhanh, chạy và nói câu ngắn",
+      "Đọc chữ cái",
+      "Vẽ hình vuông"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 30. Test Denver được sử dụng chủ yếu để:",
+    "options": [
+      "Chẩn đoán bệnh nội khoa",
+      "Đánh giá trí tuệ người lớn",
+      "Sàng lọc chậm phát triển ở trẻ trước 6 tuổi",
+      "Đánh giá thể lực học sinh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 1. Từ khi sinh ra đến khi trưởng thành, cân nặng của trẻ tăng khoảng:",
+    "options": [
+      "10 lần",
+      "15 lần",
+      "20 lần",
+      "25 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 2. Chiều cao của trẻ từ sơ sinh đến trưởng thành tăng khoảng:",
+    "options": [
+      "2 – 2,5 lần",
+      "3 – 3,5 lần",
+      "3,5 – 4 lần",
+      "4,5 – 5 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 3. Yếu tố quyết định chủ yếu đến tăng trưởng của trẻ em là:",
+    "options": [
+      "Di truyền",
+      "Giới tính",
+      "Nuôi dưỡng",
+      "Môi trường"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 4. Sữa mẹ là thức ăn tốt nhất cho trẻ trong giai đoạn:",
+    "options": [
+      "0 – 3 tháng",
+      "0 – 4 tháng",
+      "0 – 5 tháng",
+      "0 – 6 tháng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 5. Chế độ nuôi dưỡng trẻ vừa bú mẹ vừa uống sữa bò được gọi là:",
+    "options": [
+      "Ăn dặm",
+      "Ăn bổ sung",
+      "Ăn hỗn hợp",
+      "Ăn nhân tạo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 6. Sữa mẹ được bài tiết theo cơ chế chủ yếu nào sau đây?",
+    "options": [
+      "Cơ chế tự động",
+      "Cơ chế phản xạ",
+      "Cơ chế nội tiết độc lập",
+      "Cơ chế hấp thu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 7. Prolactin là hormon do thùy nào của tuyến yên tiết ra?",
+    "options": [
+      "Thùy sau",
+      "Thùy giữa",
+      "Thùy trước",
+      "Vùng dưới đồi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 8. Vai trò chính của prolactin trong nuôi con bằng sữa mẹ là:",
+    "options": [
+      "Co cơ tuyến vú",
+      "Tạo sữa",
+      "Cầm máu sau đẻ",
+      "Co hồi tử cung"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 9. Oxytocin có tác dụng chủ yếu nào sau đây?",
+    "options": [
+      "Kích thích tế bào tạo sữa",
+      "Ức chế rụng trứng",
+      "Đẩy sữa xuống xoang sữa",
+      "Tăng hấp thu chất dinh dưỡng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 10. Yếu tố nào sau đây kích thích phản xạ tiết sữa của oxytocin?",
+    "options": [
+      "Lo âu, căng thẳng",
+      "Sang chấn tinh thần",
+      "Niềm vui, hạnh phúc",
+      "Lao động nặng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 11. Nhu cầu năng lượng của bà mẹ đang cho con bú trung bình khoảng:",
+    "options": [
+      "2200 kcal/ngày",
+      "2500 kcal/ngày",
+      "2700 – 2800 kcal/ngày",
+      "3000 – 3200 kcal/ngày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 12. Khi trong vú còn nhiều sữa sau mỗi lần bú sẽ gây hậu quả nào sau đây?",
+    "options": [
+      "Kích thích tạo sữa",
+      "Không ảnh hưởng",
+      "Ức chế quá trình tạo sữa",
+      "Tăng chất lượng sữa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 13. Biện pháp quan trọng để kích thích tạo sữa là:",
+    "options": [
+      "Cho trẻ bú ít lần",
+      "Để sữa ứ trong vú",
+      "Vắt kiệt sữa sau mỗi lần bú",
+      "Hạn chế cho trẻ bú ban đêm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 14. Việc nai nịt vú quá chặt sẽ:",
+    "options": [
+      "Tăng lượng sữa",
+      "Không ảnh hưởng",
+      "Ức chế quá trình tạo sữa",
+      "Làm sữa đặc hơn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 15. Nhóm thuốc nào có thể làm giảm sự tạo sữa?",
+    "options": [
+      "Vitamin",
+      "Thuốc lợi tiểu nhóm thiazid",
+      "Thuốc bổ sung sắt",
+      "Men tiêu hóa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 16. Sữa non được tiết ra chủ yếu trong thời gian:",
+    "options": [
+      "24 giờ đầu sau đẻ",
+      "1 – 2 ngày sau đẻ",
+      "2 – 3 ngày đầu sau đẻ",
+      "Tuần đầu sau đẻ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 17. Đặc điểm nổi bật của sữa non là:",
+    "options": [
+      "Ít năng lượng, ít vitamin",
+      "Giàu protein và vitamin A",
+      "Nhiều casein",
+      "Khó tiêu hóa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 18. Thành phần kháng thể chủ yếu trong sữa mẹ là:",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgA tiết"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 19. Lactoferrin trong sữa mẹ có tác dụng chính là:",
+    "options": [
+      "Tăng hấp thu lipid",
+      "Kích thích tiêu hóa",
+      "Gắn sắt, ức chế vi khuẩn",
+      "Trung hòa acid dạ dày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 20. Trẻ bú mẹ ít bị thiếu máu thiếu sắt vì:",
+    "options": [
+      "Sữa mẹ nhiều sắt",
+      "Sắt trong sữa mẹ dễ hấp thu",
+      "Trẻ bú mẹ ăn nhiều hơn",
+      "Sữa mẹ giàu vitamin C"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 21. Ăn nhân tạo là chế độ ăn áp dụng cho trẻ dưới:",
+    "options": [
+      "3 tháng",
+      "4 tháng",
+      "5 – 6 tháng",
+      "12 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 22. Loại sữa ít được sử dụng cho trẻ do thành phần khác xa sữa mẹ là:",
+    "options": [
+      "Sữa bò",
+      "Sữa trâu",
+      "Sữa dê",
+      "Sữa cừu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 23. Sữa loại I dùng cho trẻ trong độ tuổi nào?",
+    "options": [
+      "3 ngày đầu",
+      "1 tháng đầu",
+      "2 – 4 tháng",
+      "Trên 4 tháng"
     ],
     "correct": 0
   },
   {
-    "question": "Câu 152: Bệnh nhân B vào viện với lý do ăn không tiêu, vàng da, phù và được bác sĩ chẩn đoán là xơ gan, nằm viện ngày thứ 5. Hiện tại, bệnh nhân chảy máu cam, bụng báng, có tuần hoàn bàng hệ, đau nhẹ vùng hạ sườn phải, ăn uống kém, tiêu chảy, nước tiểu 500 ml/24h, phù 2 chi dưới. Các chẩn đoán điều dưỡng nào sau đây cho người bệnh B KHÔNG ĐÚNG:",
+    "question": "Bài 4 - Câu 24. Nhiệt độ nước thích hợp để pha sữa cho trẻ dưới 2 tháng tuổi là:",
     "options": [
-      "Xuất huyết do suy tế bào gan",
-      "Ăn uống kém do giảm tiết mật",
-      "Cổ chướng do tăng áp lực tĩnh mạch cửa",
-      "Tiểu ít do mất nước"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 153: Bệnh nhân B vào viện với lý do ăn không tiêu, vàng da, phù và được bác sĩ chẩn đoán là xơ gan, nằm viện ngày thứ 5. Hiện tại, bệnh nhân chảy máu cam, bụng báng, có tuần hoàn bàng hệ, đau nhẹ vùng hạ sườn phải, ăn uống kém, tiêu chảy, nước tiểu 500 ml/24h, phù 2 chi dưới. Các kế hoạch chăm sóc nào sau đây cho người bệnh B, NGOẠI TRỪ:",
-    "options": [
-      "Đảm bảo dinh dưỡng và tăng cường chức năng gan",
-      "Giảm phù và cổ chướng",
-      "Phòng ngừa xuất huyết tiêu hóa",
-      "Bổ sung nước điện giải"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 154: Can thiệp điều dưỡng về chế độ ăn nào sau đây cho bệnh nhân trên là KHÔNG ĐÚNG:",
-    "options": [
-      "Tăng cường các vitamin nhóm B và vitamin K",
-      "Hạn chế đạm, hạn chế mỡ, không được uống rượu",
-      "Tăng đạm 1,5 – 2 g/kg/ngày",
-      "Ăn nhạt, hạn chế muối"
+      "30 – 35°C",
+      "35 – 40°C",
+      "45 – 50°C",
+      "55 – 60°C"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 155: Một bệnh nhân nam 40 tuổi, làm nghề thợ hồ, điều trị xơ gan giai đoạn còn bù. Bệnh nhân có thói quen uống rượu mỗi ngày. Tình trạng hiện tại của bệnh nhân đã tiến triển tốt và sắp được xuất viện. Theo bạn vấn đề quan trọng nhất cần giáo dục cho bệnh nhân trên:",
+    "question": "Bài 4 - Câu 25. Công thức Phinkelstein được dùng để tính lượng sữa cho trẻ:",
     "options": [
-      "Giảm dần và ngừng việc uống rượu mỗi ngày",
-      "Thay đổi công việc hoặc hạn chế lao động nặng",
-      "Hạn chế đạm, béo trong chế độ ăn",
-      "Tái khám định kì"
+      "Trên 2 tháng tuổi",
+      "6 – 12 tháng tuổi",
+      "Trong tuần đầu sau sinh",
+      "Trên 1 tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 26. Ăn bổ sung được bắt đầu tốt nhất khi trẻ ở độ tuổi:",
+    "options": [
+      "4 – 5 tháng",
+      "5 – 6 tháng",
+      "6 – 7 tháng",
+      "7 – 8 tháng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 27. Trung tâm của ô vuông thức ăn theo WHO đối với trẻ bú mẹ là:",
+    "options": [
+      "Thịt cá",
+      "Rau quả",
+      "Dầu mỡ",
+      "Sữa mẹ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 28. Nguyên tắc cho trẻ ăn dặm đúng là:",
+    "options": [
+      "Từ đặc đến loãng",
+      "Từ nhiều đến ít",
+      "Từ dễ tiêu đến khó tiêu",
+      "Cho ăn ngay thức ăn thô"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 29. Thức ăn cung cấp nhiều năng lượng nhất cho trẻ là:",
+    "options": [
+      "Glucid",
+      "Protein",
+      "Lipid",
+      "Vitamin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 30. Trẻ từ 18 tháng tuổi trở lên có thể bắt đầu ăn:",
+    "options": [
+      "Bột loãng",
+      "Cháo loãng",
+      "Cháo thịt, cháo cá",
+      "Sữa hoàn toàn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 1. Trẻ sơ sinh được coi là khỏe mạnh khi cân nặng lúc đẻ:",
+    "options": [
+      "≥ 2,0 kg",
+      "≥ 2,3 kg",
+      "≥ 2,5 kg",
+      "≥ 2,8 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 2. Chiều dài trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "45 – 46 cm",
+      "47 – 48 cm",
+      "49 – 50 cm",
+      "51 – 52 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 3. Nhịp thở bình thường của trẻ sơ sinh khỏe mạnh là:",
+    "options": [
+      "30 – 35 lần/phút",
+      "35 – 40 lần/phút",
+      "40 – 60 lần/phút",
+      "60 – 70 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 4. Nhịp tim trung bình của trẻ sơ sinh khỏe mạnh khoảng:",
+    "options": [
+      "100 lần/phút",
+      "110 lần/phút",
+      "120 lần/phút",
+      "140 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 5. Đặc điểm tiêu hóa của trẻ sơ sinh khỏe mạnh là:",
+    "options": [
+      "Bú kém, ỉa chậm",
+      "Bú khỏe, ỉa phân su ngay ngày đầu",
+      "Chỉ bú sau 24 giờ",
+      "Ít đi ngoài trong 2 ngày đầu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 6. Vàng da sinh lý ở trẻ sơ sinh thường xuất hiện vào ngày:",
+    "options": [
+      "Ngày 1 sau đẻ",
+      "Ngày 2 – 5 sau đẻ",
+      "Ngày 6 – 8 sau đẻ",
+      "Sau 10 ngày"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 7. Vàng da sinh lý ở trẻ sơ sinh thường tự hết sau:",
+    "options": [
+      "3 – 5 ngày",
+      "5 – 7 ngày",
+      "7 – 10 ngày",
+      "Trên 14 ngày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 8. Sụt cân sinh lý ở trẻ sơ sinh thường xuất hiện vào:",
+    "options": [
+      "Ngày thứ 1",
+      "Ngày thứ 2",
+      "Ngày thứ 3",
+      "Ngày thứ 5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 9. Tỷ lệ sụt cân sinh lý bình thường của trẻ sơ sinh là:",
+    "options": [
+      "3 – 5 %",
+      "4 – 6 %",
+      "6 – 9 %",
+      "10 – 12 %"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 10. Biến động sinh dục sinh lý ở trẻ sơ sinh có thể kéo dài:",
+    "options": [
+      "1 – 2 ngày",
+      "3 – 5 ngày",
+      "Vài ngày đến vài tuần",
+      "Trên 2 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 11. Việc đầu tiên cần làm ngay sau khi trẻ ra đời là:",
+    "options": [
+      "Cắt rốn",
+      "Cho bú ngay",
+      "Quấn trẻ bằng khăn khô và ấm",
+      "Đánh giá giới tính"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 12. Khi trẻ khóc to ngay sau sinh thì xử trí đường thở đúng là:",
+    "options": [
+      "Hút mũi họng ngay",
+      "Không cần hút",
+      "Đặt nội khí quản",
+      "Vỗ rung lồng ngực"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 13. Thời điểm cho trẻ bú mẹ lần đầu thích hợp nhất là:",
+    "options": [
+      "Sau 30 phút",
+      "Sau 1 – 2 giờ sau đẻ",
+      "Sau 6 giờ",
+      "Sau 24 giờ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 14. Trẻ sơ sinh nên được theo dõi sát sau đẻ trong thời gian:",
+    "options": [
+      "30 phút",
+      "1 giờ",
+      "2 giờ",
+      "6 giờ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 15. Rốn trẻ sơ sinh thường rụng vào khoảng:",
+    "options": [
+      "Ngày 3 – 4",
+      "Ngày 4 – 5",
+      "Ngày 5 – 7",
+      "Ngày 8 – 10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 16. Dấu hiệu nào sau đây là biểu hiện bệnh lý ở trẻ sơ sinh?",
+    "options": [
+      "Bú khỏe",
+      "Ngủ yên",
+      "Vàng da kéo dài trên 10 ngày",
+      "Khóc to"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 17. Nhịp thở được coi là bất thường ở trẻ sơ sinh khi:",
+    "options": [
+      "45 lần/phút",
+      "50 lần/phút",
+      "> 60 lần/phút",
+      "55 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 18. Dấu hiệu nguy hiểm về tiêu hóa ở trẻ sơ sinh là:",
+    "options": [
+      "Ỉa phân su ngày đầu",
+      "Nôn ra dịch vàng",
+      "Bú nhiều",
+      "Đi ngoài phân su đen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 19. Nhiễm khuẩn sơ sinh thường xảy ra trong thời gian:",
+    "options": [
+      "7 ngày đầu",
+      "14 ngày đầu",
+      "21 ngày đầu",
+      "Tháng đầu sau sinh"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 5 - Câu 20. Trẻ dưới 1 tuần tuổi bị nhiễm khuẩn thường nặng do:",
+    "options": [
+      "Miễn dịch hoàn chỉnh",
+      "Dễ tổn thương nhiều cơ quan",
+      "Ít tiếp xúc vi khuẩn",
+      "Được bảo vệ hoàn toàn bởi mẹ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 21. Bệnh nhiễm khuẩn thường gặp ở trẻ trên 1 tuần tuổi là:",
+    "options": [
+      "Uốn ván rốn",
+      "Viêm phổi, nhiễm trùng huyết, viêm màng não",
+      "Cúm mùa",
+      "Lao sơ nhiễm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 22. Vi khuẩn thường gặp nhất gây nhiễm khuẩn sơ sinh là:",
+    "options": [
+      "Liên cầu nhóm B",
+      "Tụ cầu vàng",
+      "Phế cầu",
+      "Não mô cầu"
     ],
     "correct": 0
   },
   {
-    "question": "Câu 156: Basedow được gọi là bệnh lý:",
+    "question": "Bài 5 - Câu 23. Yếu tố nguy cơ quan trọng gây nhiễm khuẩn sơ sinh là:",
     "options": [
-      "Nhiễm trùng cấp",
-      "Nhiễm trùng mạn",
-      "Tự miễn",
-      "Bệnh truyền nhiễm"
+      "Trẻ đủ tháng",
+      "Vỡ ối kéo dài trên 24 giờ",
+      "Đẻ thường",
+      "Trẻ gái"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 24. Nguyên nhân chính gây bệnh uốn ván rốn là:",
+    "options": [
+      "Virus",
+      "Vi khuẩn tụ cầu",
+      "Nha bào uốn ván xâm nhập qua rốn",
+      "Dị ứng thuốc"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 157: Basedow là bệnh hay gặp ở:",
+    "question": "Bài 5 - Câu 25. Thời gian ủ bệnh trung bình của uốn ván rốn là:",
     "options": [
-      "Nam giới",
-      "Phụ nữ ở mọi lứa tuổi",
-      "Phụ nữ trẻ < 20 tuổi",
-      "Phụ nữ từ 30 – 50 tuổi"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 158: Triệu chứng chủ yếu trong bệnh Basedow là:",
-    "options": [
-      "Bướu cổ, run tay, tiêu chảy",
-      "Bướu cổ, gầy sút, mắt lồi",
-      "Mạch nhanh, run tay",
-      "Bướu cổ, mạch nhanh, gầy sút"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 159: Biểu hiện nhiễm độc giáp trong Basedow là:",
-    "options": [
-      "Bệnh nhân thường thích chịu nóng hơn chịu lạnh",
-      "Dễ kích thích, nóng nảy",
-      "Nhịp tim tăng lên khi xúc động và giảm khi nghỉ ngơi",
-      "Run tay với biên độ nhanh nhỏ đều ở các đầu chi"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 160: Dấu hiệu quan trọng nhất cần chú ý khi theo dõi dấu hiệu sinh tồn ở người bệnh Basedow là:",
-    "options": [
-      "Mạch",
-      "Nhiệt độ",
-      "Huyết áp",
-      "Nhịp thở"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 161: Triệu chứng rối loạn thần kinh giao cảm trong bệnh Basedow, NGOẠI TRỪ:",
-    "options": [
-      "Run tay",
-      "Dễ nóng giận, dễ xúc động",
-      "Sụt cân nhanh",
-      "Mất ngủ, lo âu, không tập trung"
+      "3 ngày",
+      "5 ngày",
+      "7 ngày",
+      "14 ngày"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 162: Dấu hiệu nào sau đây có giá trị nhất, giúp điều dưỡng phát hiện sớm và kịp thời cơn cường giáp trạng:",
+    "question": "Bài 5 - Câu 26. Triệu chứng sớm nhất của uốn ván rốn là:",
     "options": [
-      "Trạng thái kích động tinh thần",
-      "Tiêu chảy",
-      "Mạch tăng nhanh",
-      "Mắt lồi, sáng long lanh"
+      "Co giật toàn thân",
+      "Sốt cao",
+      "Cứng hàm",
+      "Thở nhanh"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 163: Triệu chứng cơ bản để điều dưỡng phát hiện cơn cường giáp cấp là:",
+    "question": "Bài 5 - Câu 27. Khi chăm sóc trẻ uốn ván rốn cần đặt trẻ ở môi trường:",
     "options": [
-      "Sốt cao, tiêu chảy",
-      "Mạch nhanh, tiêu chảy",
-      "Sốt cao, mạch nhanh, rối loạn ý thức",
-      "Sốt cao, tiêu chảy, rối loạn ý thức"
+      "Nhiều ánh sáng",
+      "Ồn ào",
+      "Yên tĩnh, ít kích thích",
+      "Nhiệt độ thấp"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 164: Điều dưỡng cần theo dõi các dấu hiệu sau ở người bệnh Basedow, NGOẠI TRỪ:",
+    "question": "Bài 5 - Câu 28. Biện pháp phòng uốn ván rốn hiệu quả nhất là:",
     "options": [
-      "Mạch, nhiệt độ, huyết áp",
+      "Cho trẻ bú mẹ sớm",
+      "Tiêm phòng cho mẹ khi mang thai",
+      "Tắm trẻ hằng ngày",
+      "Băng rốn kín"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 29. Trong lập kế hoạch chăm sóc, việc theo dõi quan trọng nhất là:",
+    "options": [
       "Cân nặng",
-      "Tri giác",
-      "Nước tiểu"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 165: Triệu chứng nào sau đây KHÔNG PHẢI là triệu chứng của hội chứng cường giáp:",
-    "options": [
-      "Tim đập nhanh",
-      "Thân nhiệt tăng",
-      "Tăng cân",
-      "Run tay"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 166: Triệu chứng cận lâm sàng phù hợp với bệnh Basedow là, NGOẠI TRỪ:",
-    "options": [
-      "Đo chuyển hóa cơ bản thấy tăng > 30%",
-      "Nồng độ T3, T4 tăng và TSH giảm",
-      "Đo chuyển hóa cơ bản thấy giảm < 30%",
-      "Siêu âm thấy tuyến giáp phì đại, eo dày"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 167: Dấu hiệu điều dưỡng nhận định KHÔNG thuộc bệnh Basedow là:",
-    "options": [
-      "Hội chứng cường giáp",
-      "Bướu giáp",
-      "Lồi mắt",
-      "Phù niêm"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 168: Triệu chứng cơ bản để phát hiện cơn bão giáp trạng ở người bệnh Basedow là:",
-    "options": [
-      "Hạ thân nhiệt, tiêu chảy",
-      "Mạch chậm, tiêu chảy",
-      "Mạch chậm, rối loạn ý thức",
-      "Sốt cao, mạch nhanh, rối loạn ý thức"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 169: Dấu hiệu có giá trị nhất phát hiện sớm cơn bão giáp trạng ở người bệnh Basedow là:",
-    "options": [
-      "Trạng thái tinh thần kích",
-      "Da nóng, ra nhiều mồ hôi",
-      "Mắt lồi, sáng long lanh",
-      "Mạch nhanh > 90 lần/phút"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 170: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Chẩn đoán điều dưỡng ưu tiên:",
-    "options": [
-      "Nguy cơ mất nước do tiêu chảy",
-      "Sốt cao do bệnh lý",
-      "Nguy cơ xảy ra cơn cường giáp cấp",
-      "Người bệnh rối loạn tri giác"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 171: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Vấn đề quan trọng nhất cần chăm sóc ở bệnh nhân này là:",
-    "options": [
-      "Thiếu hụt dinh dưỡng do tăng cường chuyển hóa cơ bản",
-      "Nguy cơ xảy ra các biến chứng do cường giáp",
-      "Bệnh nhân thiếu kiến thức về bệnh tật",
-      "Thần kinh và tinh thần không ổn định do cường giáp"
+      "Các dấu hiệu sinh tồn",
+      "Màu tóc",
+      "Chiều dài cơ thể"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 172: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Thức ăn cần tránh cho bệnh nhân trên:",
+    "question": "Bài 5 - Câu 30. Đánh giá kết quả chăm sóc trẻ sơ sinh được chia thành:",
     "options": [
-      "Thức ăn nhiều đạm",
-      "Thức ăn nhiều mỡ",
-      "Thức ăn nhiều muối",
-      "Thức ăn nhiều chất xơ, chất tạo hơi"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 173: Chẩn đoán xác định bệnh đái tháo đường dựa vào:",
-    "options": [
-      "Xét nghiệm đường niệu",
-      "Xét nghiệm đường máu",
-      "Xét nghiệm protid máu",
-      "Xét nghiệm protein niệu"
+      "2 mức độ",
+      "3 mức độ",
+      "4 mức độ",
+      "5 mức độ"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 174: Đặc điểm nào sau đây KHÔNG PHẢI của bệnh đái tháo đường tuýp 2:",
+    "question": "Bài 6 - Câu 1. Thấp tim là bệnh lý thuộc nhóm nào sau đây?",
     "options": [
-      "Điều trị bằng chế độ ăn, luyện tập thể dục hợp lý",
-      "Bắt buộc phải điều trị bằng Insulin",
-      "Thể trạng thường béo",
-      "Ít nhiễm toan ceton"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 175: Nội dung cơ bản điều dưỡng cần giáo dục sức khỏe cho người bệnh đái tháo đường:",
-    "options": [
-      "Chế độ dinh dưỡng, duy trì cân nặng hợp lý",
-      "Sử dụng thuốc hạ đường huyết thường xuyên",
-      "Tái khám thường xuyên",
-      "Nghỉ ngơi tại giường, hạn chế vận động"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 176: Yếu tố nguy cơ nào sau đây KHÔNG PHẢI của bệnh đái tháo đường tuýp 2 là:",
-    "options": [
-      "Béo phì",
-      "Huyết áp",
-      "Gầy",
-      "Ít vận động, stress"
+      "Bệnh di truyền bẩm sinh",
+      "Bệnh chuyển hóa",
+      "Bệnh nhiễm trùng – nhiễm độc – miễn dịch",
+      "Bệnh thoái hóa"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 184: Nghiệm pháp dung nạp Glucose đường uống: bệnh nhân nhịn đói từ nửa đêm trước khi làm nghiệm pháp, dùng một lượng Glucose tương đương với .... Glucose, hòa tan trong 250 – 300 ml nước, uống trong 5 phút:",
-    "options": [
-      "50g",
-      "65g",
-      "75g",
-      "85g"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 185: Xét nghiệm dùng để chẩn đoán bệnh đái tháo đường là:",
-    "options": [
-      "Đường máu mao mạch",
-      "Đường máu tĩnh mạch",
-      "Đường niệu",
-      "Đường máu động mạch"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 186: Tiêu chuẩn nào dưới đây KHÔNG PHẢI là tiêu chuẩn dùng để chẩn đoán bệnh đái tháo đường:",
-    "options": [
-      "Đường máu lúc đói ≥ 7mmol/l",
-      "Đường máu sau nghiệm pháp dung nạp Glucoza đường uống ≥ 11,1 mmol/l",
-      "Đường máu bất kỳ ≥ 11,1 mmol/l",
-      "Đường máu bất kỳ ≥ 11,1 mmol/l kèm theo hội chứng 3 nhiều (tiểu nhiều, uống nhiều, sụt cân) không giải thích được"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 187: Biến chứng nào sau đây là biến chứng cấp của bệnh đái tháo đường:",
-    "options": [
-      "Hôn mê",
-      "Nhiễm trùng",
-      "Tổn thương mạch máu",
-      "Tổn thương thần kinh"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 188: Biến chứng cấp nào sau đây KHÔNG PHẢI của bệnh đái tháo đường là:",
-    "options": [
-      "Hôn mê hạ đường máu",
-      "Hôn mê nhiễm toan ceton",
-      "Hôn mê nhiễm toan lactic",
-      "Nhiễm trùng"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 189: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Người bệnh khai sau khi dùng thuốc tiêm dưới da thì thấy xuất hiện các triệu chứng như hoa mắt, chóng mặt, run chân tay, vã mồ hôi lạnh. Biến chứng cấp tính đang xảy ra trên bệnh nhân Xu là:",
-    "options": [
-      "Tăng huyết áp",
-      "Hội chứng nhiễm trùng bàn chân",
-      "Hạ đường huyết",
-      "Viêm thần kinh ngoại biên"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 190: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Biến chứng mạn tính đang xảy ra trên bệnh nhân Xu là:",
-    "options": [
-      "Tăng huyết áp, hội chứng nhiễm trùng bàn chân",
-      "Hạ đường huyết, hội chứng nhiễm trùng bàn chân",
-      "Viêm thần kinh ngoại biên, hội chứng nhiễm trùng bàn chân",
-      "Tăng huyết áp, hạ đường huyết"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 191: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Người bệnh khai sau khi dùng thuốc tiêm dưới da thì thấy xuất hiện các triệu chứng như hoa mắt, chóng mặt, run chân tay, vã mồ hôi lạnh. Hành động can thiệp ưu tiên ở người bệnh này là:",
-    "options": [
-      "Cho bệnh nhân uống thuốc hạ huyết áp ngay",
-      "Chăm sóc vết loét ở bàn chân",
-      "Giáo dục sức khỏe cho người bệnh",
-      "Cho bệnh nhân uống một ly nước đường"
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 192: Viêm thận bể thận là do tình trạng nhiễm khuẩn tại:",
-    "options": [
-      "Đài bể thận và tổ chức kẽ thận",
-      "Tuyến thượng thận",
-      "Niệu quản",
-      "Mạch máu tại thận"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 193: Loại vi khuẩn gây viêm thận – bể thận cấp tính hay gặp là:",
+    "question": "Bài 6 - Câu 2. Tác nhân gây thấp tim được xác định rõ nhất là:",
     "options": [
       "Tụ cầu vàng",
-      "Liên cầu khuẩn",
-      "E.Coli",
-      "Phế cầu"
+      "Liên cầu trùng β tan huyết nhóm A",
+      "Phế cầu",
+      "Virus cúm"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
-    "question": "Câu 194: Trong bệnh viêm thận bể thận, xét nghiệm quan trọng cần phải làm sớm trước khi sử dụng kháng sinh:",
+    "question": "Bài 6 - Câu 3. Thấp tim chỉ xảy ra sau khi trẻ mắc bệnh nào sau đây?",
     "options": [
-      "Cấy nước tiểu",
-      "Đo điện tim",
-      "Chụp X-quang tim phổi",
-      "Công thức máu"
+      "Viêm phổi",
+      "Viêm phế quản",
+      "Viêm họng hoặc viêm amiđan do liên cầu",
+      "Viêm tai giữa"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
-    "question": "Câu 195: Xét nghiệm có giá trị giúp cho chẩn đoán và điều trị hiệu quả bệnh viêm thận – bể thận cấp tính là:",
+    "question": "Bài 6 - Câu 4. Nhóm tuổi thường gặp bệnh thấp tim nhất là:",
     "options": [
-      "Số lượng và công thức bạch cầu",
-      "Cấy nước tiểu tìm vi khuẩn gây bệnh",
-      "Định lượng protein niệu",
-      "Định lượng urê máu"
+      "1 – 5 tuổi",
+      "5 – 7 tuổi",
+      "7 – 15 tuổi",
+      "Trên 15 tuổi"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
-    "question": "Câu 196: Nguyên tắc điều trị cơ bản nhất trong bệnh viêm thận – bể thận là:",
+    "question": "Bài 6 - Câu 5. Cơ địa nào làm tăng nguy cơ mắc thấp tim?",
     "options": [
-      "Thuốc giảm đau, hạ sốt",
-      "Uống nhiều nước",
-      "Kháng sinh theo kháng sinh đồ",
-      "Ăn tăng đạm và các vitamin"
+      "Cơ địa béo phì",
+      "Cơ địa dị ứng",
+      "Cơ địa suy dinh dưỡng",
+      "Cơ địa thấp còi"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
-    "question": "Câu 197: Đánh giá tình trạng bệnh nhân đáp ứng tốt với điều trị và chăm sóc trong trường hợp bị viêm thận bể thận cấp, NGOẠI TRỪ:",
+    "question": "Bài 6 - Câu 6. Yếu tố gia đình ảnh hưởng đến nguy cơ thấp tim được thể hiện bằng:",
     "options": [
-      "Đau vùng hông giảm",
-      "Sốt giảm",
-      "Thiểu niệu",
-      "Nước tiểu trong dần"
+      "Trẻ sinh non",
+      "Có người thân bị bệnh thấp tim",
+      "Gia đình đông con",
+      "Cha mẹ hút thuốc lá"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
-    "question": "Câu 198: Nội dung cần nhận định có giá trị ở người bệnh xuất huyết tiêu hóa là:",
+    "question": "Bài 6 - Câu 7. Điều kiện sinh hoạt làm tăng nguy cơ thấp tim là:",
     "options": [
-      "Toàn thân, tri giác",
-      "Tình trạng bụng",
-      "Màu sắc chất nôn, phân",
-      "Chế độ dinh dưỡng"
+      "Nhà ở rộng rãi",
+      "Vệ sinh tốt",
+      "Kinh tế khá giả",
+      "Nhà chật chội, vệ sinh kém"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
-    "question": "Câu 199: Nguyên nhân nào dưới đây KHÔNG gây xuất huyết tiêu hóa trên:",
+    "question": "Bài 6 - Câu 8. Mùa dễ làm trẻ mắc thấp tim hơn là:",
     "options": [
-      "Viêm loét dạ dày tá tràng",
-      "Chảy máu đường mật",
-      "Vỡ tĩnh mạch trướng thực quản",
-      "Viêm đại tràng xuất huyết"
+      "Mùa hè nóng",
+      "Mùa khô",
+      "Mùa lạnh, ẩm",
+      "Mùa nắng"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
-    "question": "Câu 200: Hành động chăm sóc ĐÚNG khi người bệnh đang bị xuất huyết tiêu hóa trên là:",
+    "question": "Bài 6 - Câu 9. Cơ chế bệnh sinh của thấp tim được công nhận nhiều nhất hiện nay là:",
     "options": [
-      "Cho ăn loãng nhẹ, dễ tiêu",
-      "Đặt sonde dạ dày bơm sữa",
-      "Không nuôi ăn qua đường tiêu hóa",
-      "Chế độ ăn hạn chế chất kích thích, rượu"
+      "Nhiễm virus – miễn dịch",
+      "Nhiễm trùng – nhiễm độc – miễn dịch",
+      "Dị ứng đơn thuần",
+      "Rối loạn chuyển hóa"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
-    "question": "Câu 201: Dấu hiệu có giá trị nhất để phát hiện sớm tình trạng mất máu nặng ở người bệnh xuất huyết tiêu hóa cao là:",
+    "question": "Bài 6 - Câu 10. Phản ứng miễn dịch trong thấp tim xảy ra do:",
     "options": [
-      "Da xanh, niêm mạc nhợt",
-      "Nôn ra nhiều máu",
-      "Mạch nhanh, huyết áp hạ",
-      "Tinh thần vật vã, kích thích"
+      "Kháng nguyên liên cầu giống tổ chức cơ tim",
+      "Liên cầu phá hủy trực tiếp cơ tim",
+      "Thiếu oxy kéo dài",
+      "Rối loạn đông máu"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
-    "question": "Câu 202: Khi người bệnh bị xuất huyết tiêu hóa mức độ nặng, người điều dưỡng cần thực hiện ngay biện pháp chăm sóc nào sau đây:",
+    "question": "Bài 6 - Câu 11. Nguyên nhân khiến thấp tim dễ tái phát là do:",
     "options": [
-      "Cho người bệnh nằm tư thế đầu cao, truyền dịch chảy tự do",
-      "Cho người bệnh nằm tư thế đầu cao, uống nước trà đường, theo dõi mạch huyết áp"
+      "Điều trị kháng sinh không đủ liều",
+      "Sau mỗi lần nhiễm liên cầu lại xảy ra viêm miễn dịch",
+      "Sức đề kháng yếu bẩm sinh",
+      "Không nghỉ ngơi hợp lý"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
-    "question": "Câu 236: Khi khám bệnh nhân trong cơn hen phế quản điển hình sẽ có triệu chứng nào sau đây:",
+    "question": "Bài 6 - Câu 12. Giai đoạn tổn thương giải phẫu bệnh có thể hồi phục hoàn toàn là:",
     "options": [
-      "Hội chứng đông đặc phổi",
-      "Hội chứng hẹp tiểu phế quản do co thắt",
-      "Hội chứng tràn khí màng phổi",
-      "Hội chứng tràn dịch màng phổi"
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
-    "question": "Câu 237: Biểu hiện của cơn khó thở ở bệnh nhân hen phế quản giai đoạn lên cơn là:",
+    "question": "Bài 6 - Câu 13. Giai đoạn nào bắt đầu hình thành hạt thấp trong cơ tim?",
     "options": [
-      "Khó thở nhanh, khó thở thì thở ra",
-      "Khó thở chậm, khó thở thì thở vào",
-      "Khó thở chậm, khó thở thì thở ra",
-      "Khó thở nhanh, khó thở thì thở vào"
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
-    "question": "Câu 238: Không phải là đặc điểm của cơn khó thở trong bệnh hen phế quản là:",
+    "question": "Bài 6 - Câu 14. Di chứng van tim hình thành ở giai đoạn nào?",
     "options": [
-      "Khó thở chậm, chủ yếu thì thở ra",
-      "Có tính chất hồi quy",
-      "Đáp ứng với thở oxy",
-      "Đáp ứng với thuốc giãn phế quản"
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 6 - Câu 15. Thời gian để hình thành di chứng van tim thường kéo dài:",
+    "options": [
+      "1 – 3 tháng",
+      "3 – 4 tháng",
+      "6 tháng – 1 năm",
+      "Trên 2 năm"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 139: Các dấu hiệu sau cần nhận định trên người bệnh xơ gan, NGOẠI TRỪ:",
-    "options": ["Tiền sử bệnh liên quan như lỵ amip", "Các vấn đề dinh dưỡng", "Tình trạng phù, bụng báng", "Tiền sử gia đình"],
-    "correct": 3
+    "question": "Bài 6 - Câu 16. Thời gian xuất hiện triệu chứng thấp tim thường sau nhiễm liên cầu:",
+    "options": [
+      "3 – 5 ngày",
+      "1 tuần",
+      "2 – 4 tuần hoặc lâu hơn",
+      "Trên 6 tháng"
+    ],
+    "correct": 2
   },
   {
-    "question": "Câu 140: Nguyên nhân nào dưới đây KHÔNG dẫn đến suy thận mạn:",
-    "options": ["Đái tháo đường", "Hội chứng thận hư", "Thận đa nang", "Nhiễm khuẩn tiết niệu"],
+    "question": "Bài 6 - Câu 17. Đặc điểm điển hình của viêm khớp trong thấp tim là:",
+    "options": [
+      "Viêm khớp nhỏ, kéo dài",
+      "Viêm khớp di chuyển",
+      "Viêm khớp có di chứng",
+      "Viêm khớp đối xứng"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 141: Nguyên nhân nào dưới đây KHÔNG dẫn đến suy thận mạn:",
-    "options": ["Sỏi thận gây ứ nước, ứ mủ", "Viêm cầu thận mạn", "Loạn sản thận", "Viêm đa khớp"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 142: Suy thận mạn được chẩn đoán xác định khi mức cầu thận <...% so với mức bình thường:",
-    "options": ["< 30%", "< 40%", "< 50%", "< 60%"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 143: Triệu chứng lâm sàng điển hình trong bệnh suy thận mạn là:",
-    "options": ["Hội chứng tăng đường máu", "Hội chứng tăng urê máu", "Hội chứng suy tim", "Hội chứng liệt nửa người"],
+    "question": "Bài 6 - Câu 18. Thời gian viêm của mỗi khớp trong thể điển hình thường là:",
+    "options": [
+      "1 – 2 ngày",
+      "3 – 7 ngày",
+      "2 – 3 tuần",
+      "Trên 1 tháng"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 144: Suy thận mạn giai đoạn cuối được chỉ định chạy thận định kỳ:",
-    "options": ["Mỗi tuần 1 lần", "Mỗi tuần 2-3 lần", "Mỗi tháng 3-4 lần", "Mỗi tháng 5 lần"],
+    "question": "Bài 6 - Câu 19. Tổn thương tim gặp nhiều nhất trong thấp tim là:",
+    "options": [
+      "Viêm màng ngoài tim",
+      "Viêm nội tâm mạc",
+      "Viêm cơ tim",
+      "Viêm tim toàn bộ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 20. Di chứng van tim hay gặp nhất do thấp tim là:",
+    "options": [
+      "Hẹp van động mạch chủ",
+      "Hở van 2 lá",
+      "Hẹp van 2 lá đơn thuần",
+      "Hở van động mạch phổi"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 145: Để phòng suy thận mạn:",
-    "options": ["Điều trị nguyên nhân tích cực", "Điều trị triệu chứng tích cực", "Mỗi ngày uống nhiều nước hơn bình thường", "Uống nhiều nước + dùng thuốc lợi tiểu"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 146: Những biểu hiện lâm sàng trong suy thận mạn có đặc điểm:",
-    "options": ["Xảy ra đột ngột", "Biểu hiện âm thầm, kín đáo", "Rầm rộ ngay từ đầu", "Diễn tiến nhanh chóng"],
+    "question": "Bài 6 - Câu 21. Viêm màng ngoài tim trong thấp tim thường có đặc điểm:",
+    "options": [
+      "Tràn dịch nhiều, để lại di chứng",
+      "Tràn dịch ít, khỏi không để lại di chứng",
+      "Gây suy tim mạn sớm",
+      "Tiến triển rất chậm"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 147: Suy thận mạn giai đoạn cuối khi mức lọc cầu thận:",
-    "options": ["≤ 30 ml/phút", "≤ 25 ml/phút", "≤ 20 ml/phút", "≤ 15 ml/phút"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 148: Chế độ ăn phù hợp cho bệnh nhân suy thận mạn:",
-    "options": ["Giảm Calo, tăng Protit, giảm Natri, giảm Kali", "Tăng Calo, Giảm Protit, giảm Natri, tăng Kali", "Giảm Calo, giảm Protit, giảm Natri, tăng Kali", "Tăng Calo, giảm Protit, giảm Natri, giảm Kali"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 149: Các vấn đề sau cần giáo dục sức khỏe cho bệnh nhân xơ gan là, NGOẠI TRÚ:",
-    "options": ["Hạn chế muối hoặc ăn nhạt khi có phù", "Tránh lao động nặng", "Chỉ tái khám khi có các dấu hiệu bất thường", "Tuyệt đối không uống rượu"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 150: Người bệnh bị xơ gan mất bù có biểu hiện sút cân, ăn uống kém, bụng chướng, vàng da, vàng mắt, không định hướng không gian, thời gian. Chẩn đoán điều dưỡng ưu tiên với tình trạng người bệnh trong tình huống trên là:",
-    "options": ["Dinh dưỡng không đảm bảo do ăn uống kém", "Nguy cơ tổn thương da do tăng Bilirubin", "Tiền hôn mê gan", "Bụng chướng do tràn dịch màng bụng"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 151: Người bệnh bị xơ gan mất bù có biểu hiện sút cân, ăn uống kém, bụng chướng, vàng da, vàng mắt, không định hướng không gian, thời gian. Điều dưỡng thực hiện hành động can thiệp nào sau đây để giải quyết ưu tiên cho vấn đề sức khỏe người bệnh là:",
-    "options": ["Lập tức giảm đạm trong chế độ ăn", "Đặt sonde dạ dày nuôi ăn", "Phụ giúp Thầy thuốc chọc dịch màng bụng", "Theo dõi xét nghiệm Bilirubin/máu"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 152: Bệnh nhân B vào viện với lí do ăn không tiêu, vàng da, phù và được bác sĩ chẩn đoán là xơ gan, nằm viện ngày thứ 5. Hiện tại, bệnh nhân chảy máu cam, bụng báng, có tuần hoàn bàng hệ, đau nhẹ vùng hạ sườn phải, ăn uống kém, tiêu chảy, nước tiểu 500 ml/24h, phù 2 chi dưới. Các chẩn đoán điều dưỡng nào sau đây cho người bệnh B KHÔNG ĐÚNG:",
-    "options": ["Xuất huyết do suy tế bào gan", "Ăn uống kém do giảm tiết mật", "Cổ chướng do tăng áp lực tĩnh mạch cửa", "Tiểu ít do mất nước"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 153: Bệnh nhân B vào viện với lí do ăn không tiêu, vàng da, phù và được bác sĩ chẩn đoán là xơ gan, nằm viện ngày thứ 5. Hiện tại, bệnh nhân chảy máu cam, bụng báng, có tuần hoàn bàng hệ, đau nhẹ vùng hạ sườn phải, ăn uống kém, tiêu chảy, nước tiểu 500 ml/24h, phù 2 chi dưới. Các kế hoạch chăm sóc nào sau đây cho người bệnh B, NGOẠI TRỪ:",
-    "options": ["Đảm bảo dinh dưỡng và tăng cường chức năng gan", "Giảm phù và cổ chướng", "Phòng ngừa xuất huyết tiêu hóa", "Bổ sung nước điện giải"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 154: Can thiệp điều dưỡng về chế độ ăn nào sau đây cho bệnh nhân trên là KHÔNG ĐÚNG:",
-    "options": ["Tăng cường các vitamin nhóm B và vitamin K", "Hạn chế đạm, hạn chế mỡ, không được uống rượu", "Tăng đạm 1,5 - 2 g/kg/ngày", "Ăn nhạt, hạn chế muối"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 155: Một bệnh nhân nam 40 tuổi, làm nghề thợ hồ, điều trị xơ gan giai đoạn còn bù. Bệnh nhân có thói quen uống rượu mỗi ngày. Tình trạng hiện tại của bệnh nhân đã tiến triển tốt và sắp được xuất viện. Theo bạn vấn đề quan trọng nhất cần giáo dục cho bệnh nhân trên:",
-    "options": ["Giảm dần và ngừng việc uống rượu mỗi ngày", "Thay đổi công việc hoặc hạn chế lao động nặng", "Hạn chế đạm, béo trong chế độ ăn", "Tái khám định kì"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 156: Basedow được gọi là bệnh lý:",
-    "options": ["Nhiễm trùng cấp", "Nhiễm trùng mạn", "Tự miễn", "Bệnh truyền nhiễm"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 157: Basedow là bệnh hay gặp ở:",
-    "options": ["Nam giới", "Phụ nữ ở mọi lứa tuổi", "Phụ nữ trẻ < 20 tuổi", "Phụ nữ từ 30 – 50 tuổi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 158: Triệu chứng chủ yếu trong bệnh Basedow là:",
-    "options": ["Bướu cổ, run tay, tiêu chảy", "Bướu cổ, gầy sút, mắt lồi", "Mạch nhanh, run tay", "Bướu cổ, mạch nhanh, gầy sút"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 159: Biểu hiện nhiễm độc giáp trong Basedow là:",
-    "options": ["Bệnh nhân thường thích chịu nóng hơn chịu lạnh", "Dễ kích thích, nóng nảy", "Nhịp tim tăng lên khi xúc động và giảm khi nghỉ ngơi", "Run tay với biên độ nhanh nhỏ đều ở các đầu chi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 160: Dấu hiệu quan trọng nhất cần chú ý khi theo dõi dấu hiệu sinh tồn ở người bệnh Basedow là:",
-    "options": ["Mạch", "Nhiệt độ", "Huyết áp", "Nhịp thở"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 161: Triệu chứng rối loạn thần kinh giao cảm trong bệnh Basedow, NGOẠI TRỪ:",
-    "options": ["Run tay", "Dễ nóng giận, dễ xúc động", "Sụt cân nhanh", "Mất ngủ, lo âu, không tập trung"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 162: Dấu hiệu nào sau đây có giá trị nhất, giúp điều dưỡng phát hiện sớm và kịp thời cơn cường giáp trạng:",
-    "options": ["Trạng thái kích động tinh thần", "Tiêu chảy", "Mạch tăng nhanh", "Mắt lồi, sáng long lanh"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 163: Triệu chứng cơ bản để điều dưỡng phát hiện cơn cường giáp cấp là:",
-    "options": ["Sốt cao, tiêu chảy", "Mạch nhanh, tiêu chảy", "Sốt cao, mạch nhanh, rối loạn ý thức", "Sốt cao, tiêu chảy, rối loạn ý thức"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 164: Điều dưỡng cần theo dõi các dấu hiệu sau ở người bệnh Basedow, NGOẠI TRỪ:",
-    "options": ["Mạch, nhiệt độ, huyết áp", "Cân nặng", "Tri giác", "Nước tiểu"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 165: Triệu chứng nào sau đây KHÔNG PHẢI là triệu chứng của hội chứng cường giáp:",
-    "options": ["Tim đập nhanh", "Thân nhiệt tăng", "Tăng cân", "Run tay"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 166: Triệu chứng cận lâm sàng phù hợp với bệnh Basedow là, NGOẠI TRỪ:",
-    "options": ["Đo chuyển hóa cơ bản thấy tăng > 30%", "Nồng độ T3, T4 tăng và TSH giảm", "Đo chuyển hóa cơ bản thấy giảm < 30%", "Siêu âm thấy tuyến giáp phì đại, eo dày"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 167: Dấu hiệu điều dưỡng nhận định KHÔNG thuộc bệnh Basedow là:",
-    "options": ["Hội chứng cường giáp", "Bướu giáp", "Lồi mắt", "Phù niêm"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 168: Triệu chứng cơ bản để phát hiện cơn bão giáp trạng ở người bệnh Basedow là:",
-    "options": ["Hạ thân nhiệt, tiêu chảy", "Mạch chậm, tiêu chảy", "Mạch chậm, rối loạn ý thức", "Sốt cao, mạch nhanh, rối loạn ý thức"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 169: Dấu hiệu có giá trị nhất phát hiện sớm cơn bão giáp trạng ở người bệnh Basedow là:",
-    "options": ["Trạng thái tinh thần kích", "Da nóng, ra nhiều mồ hôi", "Mắt lồi, sáng long lanh", "Mạch nhanh > 90 lần/phút"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 170: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Chẩn đoán điều dưỡng ưu tiên:",
-    "options": ["Nguy cơ mất nước do tiêu chảy", "Sốt cao do bệnh lý", "Nguy cơ xảy ra cơn cường giáp cấp", "Người bệnh rối loạn tri giác"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 171: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Vấn đề quan trọng nhất cần chăm sóc ở bệnh nhân này là:",
-    "options": ["Thiếu hụt dinh dưỡng do tăng cường chuyển hóa cơ bản", "Nguy cơ xảy ra các biến chứng do cường giáp", "Bệnh nhân thiếu kiến thức về bệnh tật", "Thần kinh và tinh thần không ổn định do cường giáp"],
+    "question": "Bài 6 - Câu 22. Múa giật Sydenham thường gặp nhất ở đối tượng nào?",
+    "options": [
+      "Trẻ trai",
+      "Trẻ gái",
+      "Trẻ dưới 3 tuổi",
+      "Người lớn"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 172: Điều dưỡng nhận định người bệnh Basedow có các dấu hiệu: rối loạn ý thức, mạch 100 lần/phút, nhiệt độ 39°C, đi tiêu 3 lần/ngày phân toàn nước. Thức ăn cần tránh cho bệnh nhân trên:",
-    "options": ["Thức ăn nhiều đạm", "Thức ăn nhiều mỡ", "Thức ăn nhiều muối", "Thức ăn nhiều chất xơ, chất tạo hơi"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 173: Chẩn đoán xác định bệnh đái tháo đường dựa vào:",
-    "options": ["Xét nghiệm đường niệu", "Xét nghiệm đường máu", "Xét nghiệm protid máu", "Xét nghiệm protein niệu"],
+    "question": "Bài 6 - Câu 23. Đặc điểm đúng của múa giật Sydenham là:",
+    "options": [
+      "Mất ý thức",
+      "Tăng khi xúc động, mất khi ngủ",
+      "Để lại di chứng thần kinh",
+      "Luôn kèm sốt cao"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 174: Đặc điểm nào sau đây KHÔNG PHẢI của bệnh đái tháo đường tuýp 2:",
-    "options": ["Điều trị bằng chế độ ăn, luyện tập thể dục hợp lý", "Bắt buộc phải điều trị bằng Insulin", "Thể trạng thường béo", "Ít nhiễm toan ceton"],
+    "question": "Bài 6 - Câu 24. Xét nghiệm kháng thể kháng liên cầu thường tăng trong thấp tim là:",
+    "options": [
+      "CRP",
+      "ALSO",
+      "Hb",
+      "Tiểu cầu"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 175: Nội dung cơ bản điều dưỡng cần giáo dục sức khỏe cho người bệnh đái tháo đường:",
-    "options": ["Chế độ dinh dưỡng, duy trì cân nặng hợp lý", "Sử dụng thuốc hạ đường huyết thường xuyên", "Tái khám thường xuyên", "Nghỉ ngơi tại giường, hạn chế vận động"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 176: Yếu tố nguy cơ nào sau đây KHÔNG PHẢI của bệnh đái tháo đường tuýp 2 là:",
-    "options": ["Béo phì", "Huyết áp", "Gầy", "Ít vận động, stress"],
+    "question": "Bài 6 - Câu 25. Thay đổi điện tâm đồ thường gặp trong thấp tim là:",
+    "options": [
+      "QT ngắn",
+      "ST chênh cao",
+      "PQ kéo dài",
+      "Block nhánh"
+    ],
     "correct": 2
   },
   {
-    "question": "Câu 177: Chẩn đoán xác định bệnh đái tháo đường khi xét nghiệm đường máu tăng:",
-    "options": ["3,4 – 6,4 mmol/l", "> 7,7 mmol/l", "> 11 mmol/l", "6,4 mmol/l"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 178: Chế độ ăn cho bệnh nhân đái tháo đường cần:",
-    "options": ["Giảm glucid và các loại thức ăn ngọt", "Nên ăn thức ăn chứa nhiều lipid", "Ăn tăng các loại thức ăn chứa nhiều protid", "Tăng cường vitamin và đường"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 179: Yếu tố giá trị nhất để tiên lượng người bệnh tiểu đường là:",
-    "options": ["Nguyên nhân gây bệnh", "Triệu chứng từng thể bệnh", "Tiến triển của bệnh", "Các biến chứng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 180: Biện pháp KHÔNG dùng để chẩn đoán bệnh đái tháo đường là:",
-    "options": ["Xét nghiệm đường máu", "Xét nghiệm Hemoglobin gắn Glucoza (HbA1c)", "Nghiệm pháp dung nạp Glucoza đường uống", "Xét nghiệm đường niệu"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 181: Đái tháo đường là bệnh rối loạn chuyển hóa do:",
-    "options": ["Giảm Insulin nội sinh", "Giảm Insulin ngoại sinh", "Giảm tác dụng sinh học của Insulin", "Giảm Insulin nội sinh + Giảm tác dụng sinh học của Insulin"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 182: Triệu chứng ít gặp ở bệnh nhân đái tháo đường tuýp 2:",
-    "options": ["Ăn nhiều", "Uống nhiều", "Tiểu nhiều", "Gầy nhanh"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 183: Để phát hiện các biến chứng của bệnh nhân tiểu đường đang nằm viện, người điều dưỡng cần có:",
-    "options": ["Kĩ năng giao tiếp tốt", "Thái độ ân cần", "Kĩ năng chăm sóc", "Kĩ năng hỏi bệnh"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 184: Nghiệm pháp dung nạp Glucose đường uống: bệnh nhân nhịn đói từ nửa đêm trước khi làm nghiệm pháp, dùng một lượng Glucose tương đương với .... Glucose, hòa tan trong 250 – 300 ml nước, uống trong 5 phút:",
-    "options": ["50g", "65g", "75g", "85g"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 185: Xét nghiệm dùng để chẩn đoán bệnh đái tháo đường là:",
-    "options": ["Đường máu mao mạch", "Đường máu tĩnh mạch", "Đường niệu", "Đường máu động mạch"],
+    "question": "Bài 6 - Câu 26. Kháng sinh hàng đầu dùng diệt liên cầu trong điều trị thấp tim là:",
+    "options": [
+      "Cephalosporin",
+      "Penicillin",
+      "Gentamycin",
+      "Tetracyclin"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 186: Tiêu chuẩn nào dưới đây KHÔNG PHẢI là tiêu chuẩn dùng để chẩn đoán bệnh đái tháo đường:",
-    "options": ["Đường máu lúc đói ≥ 7mmol/l", "Đường máu sau nghiệm pháp dung nạp Glucoza đường uống ≥ 11,1 mmol/l", "Đường máu bất kỳ ≥ 11,1 mmol/l", "Đường máu bất kỳ ≥ 11,1 mmol/l kèm theo hội chứng 3 nhiều (tiểu nhiều, uống nhiều, sụt cân) không giải thích được"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 187: Biến chứng nào sau đây là biến chứng cấp của bệnh đái tháo đường:",
-    "options": ["Hôn mê", "Nhiễm trùng", "Tổn thương mạch máu", "Tổn thương thần kinh"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 188: Biến chứng cấp nào sau đây KHÔNG PHẢI của bệnh đái tháo đường là:",
-    "options": ["Hôn mê hạ đường máu", "Hôn mê nhiễm toan ceton", "Hôn mê nhiễm toan lactic", "Nhiễm trùng"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 189: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Người bệnh khai sau khi dùng thuốc tiêm dưới da thì thấy xuất hiện các triệu chứng như hoa mắt, chóng mặt, run chân tay, vã mồ hôi lạnh. Biến chứng cấp tính đang xảy ra trên bệnh nhân Xu là:",
-    "options": ["Tăng huyết áp", "Hội chứng nhiễm trùng bàn chân", "Hạ đường huyết", "Viêm thần kinh ngoại biên"],
+    "question": "Câu 27: Khi chăm sóc trẻ uốn ván rốn cần đặt trẻ ở môi trường:",
+    "options": [
+      "Nhiều ánh sáng",
+      "Ồn ào",
+      "Yên tĩnh, ít kích thích",
+      "Nhiệt độ thấp"
+    ],
     "correct": 2
   },
   {
-    "question": "Câu 190: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Người bệnh khai sau khi dùng thuốc tiêm dưới da thì thấy xuất hiện các triệu chứng như hoa mắt, chóng mặt, run chân tay, vã mồ hôi lạnh. Biến chứng mạn tính đang xảy ra trên bệnh nhân Xu là:",
-    "options": ["Tăng huyết áp, hội chứng nhiễm trùng bàn chân", "Hạ đường huyết, hội chứng nhiễm trùng bàn chân", "Viêm thần kinh ngoại biên, hội chứng nhiễm trùng bàn chân", "Tăng huyết áp, hạ đường huyết"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 191: Bệnh nhân Trần Văn Xu vào viện với chẩn đoán là đái tháo đường tuýp 2, hiện tại người bệnh có các triệu chứng: bàn chân lở loét, chảy dịch vàng có mùi hôi, huyết áp 160/80 mmHg. Người bệnh khai sau khi dùng thuốc tiêm dưới da thì thấy xuất hiện các triệu chứng như hoa mắt, chóng mặt, run chân tay, vã mồ hôi lạnh. Hành động can thiệp ưu tiên ở người bệnh này là:",
-    "options": ["Cho bệnh nhân uống thuốc hạ huyết áp ngay", "Chăm sóc vết loét ở bàn chân", "Giáo dục sức khỏe cho người bệnh", "Cho bệnh nhân uống một ly nước đường"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 192: Viêm thận bể thận là do tình trạng nhiễm khuẩn tại:",
-    "options": ["Đài bể thận và tổ chức kẽ thận", "Tuyến thượng thận", "Niệu quản", "Mạch máu tại thận"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 193: Loại vi khuẩn gây viêm thận – bể thận cấp tính hay gặp là:",
-    "options": ["Tụ cầu vàng", "Liên cầu khuẩn", "E.Coli", "Phế cầu"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 194: Trong bệnh viêm thận bể thận, xét nghiệm quan trọng cần phải làm sớm trước khi sử dụng kháng sinh:",
-    "options": ["Cấy nước tiểu", "Đo điện tim", "Chụp X-quang tim phổi", "Công thức máu"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 195: Xét nghiệm có giá trị giúp cho chẩn đoán và điều trị hiệu quả bệnh viêm thận – bể thận cấp tính là:",
-    "options": ["Số lượng và công thức bạch cầu", "Cấy nước tiểu tìm vi khuẩn gây bệnh", "Định lượng protein niệu", "Định lượng urê máu"],
+    "question": "Câu 28: Biện pháp phòng uốn ván rốn hiệu quả nhất là:",
+    "options": [
+      "Cho trẻ bú mẹ sớm",
+      "Tiêm phòng cho mẹ khi mang thai",
+      "Tắm trẻ hằng ngày",
+      "Băng rốn kín"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 196: Nguyên tắc điều trị cơ bản nhất trong bệnh viêm thận – bể thận là:",
-    "options": ["Thuốc giảm đau, hạ sốt", "Uống nhiều nước", "Kháng sinh theo kháng sinh đồ", "Ăn tăng đạm và các vitamin"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 197: Đánh giá tình trạng bệnh nhân đáp ứng tốt với điều trị và chăm sóc trong trường hợp bị viêm thận bể thận cấp, NGOẠI TRỪ:",
-    "options": ["Đau vùng thắt lưng giảm", "Sốt giảm", "Thiểu niệu", "Nước tiểu trong dần"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 198: Nội dung cần nhận định có giá trị ở người bệnh xuất huyết tiêu hóa là:",
-    "options": ["Toàn thân, tri giác", "Tình trạng bụng", "Màu sắc chất nôn, phân", "Chế độ dinh dưỡng"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 199: Nguyên nhân nào dưới đây KHÔNG gây xuất huyết tiêu hóa trên:",
-    "options": ["Viêm loét dạ dày tá tràng", "Chảy máu đường mật", "Vỡ tĩnh mạch trướng thực quản", "Viêm đại tràng xuất huyết"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 200: Hành động chăm sóc ĐÚNG khi người bệnh đang bị xuất huyết tiêu hóa trên là:",
-    "options": ["Cho ăn loãng nhẹ, dễ tiêu", "Đặt sonde dạ dày bơm sữa", "Không nuôi ăn qua đường tiêu hóa", "Chế độ ăn hạn chế chất kích thích, rượu"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 201: Dấu hiệu có giá trị nhất để phát hiện sớm tình trạng mất máu nặng ở người bệnh xuất huyết tiêu hóa cao là:",
-    "options": ["Da xanh, niêm mạc nhợt", "Nôn ra nhiều máu", "Mạch nhanh, huyết áp hạ", "Tinh thần vật vã, kích thích"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 202: Khi người bệnh bị xuất huyết tiêu hóa mức độ nặng, người điều dưỡng cần thực hiện ngay biện pháp chăm sóc nào sau đây:",
-    "options": ["Cho người bệnh nằm tư thế đầu cao, truyền dịch chảy tự do", "Cho người bệnh nằm tư thế đầu cao, uống nước trà đường, theo dõi mạch huyết áp", "Theo dõi tình trạng sốc, ủ ấm, cho uống nước trà đường, truyền máu cho người bệnh", "Cho người bệnh nằm đầu thấp, thiết lập đường truyền, theo dõi mạch, huyết áp"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 203: Để đánh giá mức độ mất máu, cần tiến hành các xét nghiệm nào trong các xét nghiệm sau:",
-    "options": ["Công thức máu, điện giải đồ, tỉ lệ huyết sắc tố", "Công thức máu, điện giải đồ, tỉ lệ hematocrit", "Công thức máu, tỉ lệ huyết sắc tố, tỉ lệ hematocrit", "Điện giải đồ, tỉ lệ huyết sắc tố, tỉ lệ hematocrit"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 204: Trong các biện pháp nhằm cầm máu cho người bệnh xuất huyết tiêu hóa cao sau đây, biện pháp tốt nhất là:",
-    "options": ["Sử dụng thuốc cầm máu", "Truyền máu", "Truyền dịch", "Sử dụng thuốc băng niêm mạc"],
+    "question": "Câu 29: Trong lập kế hoạch chăm sóc, việc theo dõi quan trọng nhất là:",
+    "options": [
+      "Cân nặng",
+      "Các dấu hiệu sinh tồn",
+      "Màu tóc",
+      "Chiều dài cơ thể"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 205: Biện pháp tốt nhất để theo dõi và khẳng định còn chảy máu hay đã cầm ở người bệnh xuất huyết tiêu hóa cao là:",
-    "options": ["Thường xuyên theo dõi mạch, huyết áp", "Theo dõi chất nôn và phân", "Đặt sonde dạ dày và theo dõi qua sonde", "Thường xuyên xét nghiệm số lượng hồng cầu"],
+    "question": "Câu 30: Đánh giá kết quả chăm sóc trẻ sơ sinh được chia thành:",
+    "options": [
+      "2 mức độ",
+      "3 mức độ",
+      "4 mức độ",
+      "5 mức độ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 1 (Bài 6): Thấp tim là bệnh lý thuộc nhóm nào sau đây?",
+    "options": [
+      "Bệnh di truyền bẩm sinh",
+      "Bệnh chuyển hóa",
+      "Bệnh nhiễm trùng – nhiễm độc – miễn dịch",
+      "Bệnh thoái hóa"
+    ],
     "correct": 2
   },
   {
-    "question": "Câu 206: Người bệnh nôn ra máu và đại tiện phân đen, chẩn đoán là:",
-    "options": ["Xuất huyết tiêu hóa dưới", "Xuất huyết tiêu hóa trên", "Thủng dạ dày", "Khái huyết do tổn thương mạch máu đường tiêu hóa"],
+    "question": "Câu 2 (Bài 6): Tác nhân gây thấp tim được xác định rõ nhất là:",
+    "options": [
+      "Tụ cầu vàng",
+      "Liên cầu trùng β tan huyết nhóm A",
+      "Phế cầu",
+      "Virus cúm"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 207: Xuất huyết tiêu hóa bao gồm:",
-    "options": ["Vỡ tĩnh mạch trực tràng, trĩ, đau bụng chưa rõ nguyên nhân", "Vỡ tĩnh mạch trực tràng, trĩ, vỡ tĩnh mạch thực quản", "Vỡ tĩnh mạch trực tràng, trĩ, chảy máu tụy, vỡ tĩnh mạch thực quản, chảy máu dạ dày", "Vỡ tĩnh mạch trực tràng, trĩ, chảy máu tụy, vỡ tĩnh mạch thực quản, thương hàn, sốt xuất huyết"],
+    "question": "Câu 3 (Bài 6): Thấp tim chỉ xảy ra sau khi trẻ mắc bệnh nào sau đây?",
+    "options": [
+      "Viêm phổi",
+      "Viêm phế quản",
+      "Viêm họng hoặc viêm amiđan do liên cầu",
+      "Viêm tai giữa"
+    ],
     "correct": 2
   },
   {
-    "question": "Câu 208: Khi người bệnh đang bị xuất huyết tiêu hóa người điều dưỡng cho người bệnh nằm tư thế ...(1)... mặt nghiêng một bên và khẩn trương ...(2)...",
-    "options": ["Đầu thấp/chườm nóng", "Đầu bằng/chườm lạnh", "Đầu cao/thiết lập đường truyền", "Đầu thấp/thiết lập đường truyền"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 209: Một bệnh nhân đang được điều trị tại bệnh viện với chẩn đoán xuất huyết tiêu hóa độ II ngày thứ 2. Hiện tại, bệnh nhân vẫn mệt, đau âm ỉ vùng thượng vị, da xanh nhợt, chân tay lạnh, đi cầu phân đen 3 lần/ngày, nôn ra máu tươi 500ml. Dấu hiệu sinh tồn M: 98 l/p, HA: 90/60 mmHg, T: 36,5°C, NT: 20 l/p. Chẩn đoán điều dưỡng ưu tiên là:",
-    "options": ["Nguy cơ mất nước do tiêu chảy", "Nguy cơ sốc do giảm thể tích tuần hoàn", "Bệnh nhân thiếu máu do xuất huyết tiêu hóa", "Đau vùng thượng vị do tổn thương niêm mạc dạ dày"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 210: Một bệnh nhân đang được điều trị tại bệnh viện với chẩn đoán xuất huyết tiêu hóa độ II ngày thứ 2. Hiện tại, bệnh nhân vẫn mệt, đau âm ỉ vùng thượng vị, da xanh nhợt, chân tay lạnh, đi cầu phân đen 3 lần/ngày, nôn ra máu tươi 500ml. Dấu hiệu sinh tồn M: 98 l/p, HA: 90/60 mmHg, T: 36,5°C, NT: 20 l/p. Can thiệp điều dưỡng quan trọng cần thực hiện cho người bệnh trên là:",
-    "options": ["Báo cáo bác sĩ xin y lệnh xử trí", "Cho người bệnh nằm đầu thấp, thiết lập đường truyền", "Thực hiện thuốc giảm đau", "Hướng dẫn người nhà chườm lạnh vùng bụng"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 211: Một bệnh nhân đang được điều trị tại bệnh viện với chẩn đoán xuất huyết tiêu hóa độ II ngày thứ 2. Hiện tại, bệnh nhân vẫn mệt, đau âm ỉ vùng thượng vị, da xanh nhợt, chân tay lạnh, đi cầu phân đen 3 lần/ngày, nôn ra máu tươi 500ml. Dấu hiệu sinh tồn M: 98 l/p, HA: 90/60 mmHg, T: 36,5°C, NT: 20 l/p. Chế độ dinh dưỡng phù hợp với giai đoạn này của bệnh nhân trên là:",
-    "options": ["Đặt sonde dạ dày và cho ăn qua sonde", "Nên cho bệnh nhân ăn thức ăn mềm, dễ tiêu như: cháo, súp, sữa,...", "Nuôi dưỡng qua đường tĩnh mạch", "Kết hợp vừa ăn qua sonde vừa truyền đạm"],
+    "question": "Câu 4 (Bài 6): Nhóm tuổi thường gặp bệnh thấp tim nhất là:",
+    "options": [
+      "1 – 5 tuổi",
+      "5 – 7 tuổi",
+      "7 – 15 tuổi",
+      "Trên 15 tuổi"
+    ],
     "correct": 2
   },
   {
-    "question": "Câu 212: Trong các nguyên nhân gây xuất huyết tiêu hóa dưới đây, nguyên nhân nào gây xuất huyết nặng nề thường gặp nhất trên lâm sàng:",
-    "options": ["Loét dạ dày tá tràng", "Chảy máu đường mật", "Vỡ tĩnh mạch thực quản", "Ung thư dạ dày"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 213: Khi theo dõi bệnh nhân xuất huyết tiêu hóa, biện pháp nào là tối ưu nhất:",
-    "options": ["Theo dõi mạch, huyết áp, nhịp thở", "Xét nghiệm công thức máu", "Theo dõi tình trạng sốc, ủ ấm", "Theo dõi màu sắc chất nôn, phân"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 22: Để tránh tác dụng phụ khi phải dùng corticoide đường uống trong điều trị hen:",
-    "options": ["Dùng liều bé nhất có thể kiểm soát được triệu chứng", "Dùng thuốc trước 12 giờ trưa", "Dùng 1 ngày, nghỉ 2 ngày", "Dùng kèm thuốc giãn phế quản tác dụng kéo dài"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 23: Để hạn chế nhiễm nấm họng khi dùng corticoide hít:",
-    "options": ["Dùng thuốc kháng nấm định kỳ", "Súc miệng sau mỗi lần hít", "Dùng chế độ ngày 1 lần", "Hít trực tiếp không qua bầu hít"],
+    "question": "Câu 5 (Bài 6): Cơ địa nào làm tăng nguy cơ mắc thấp tim?",
+    "options": [
+      "Cơ địa béo phì",
+      "Cơ địa dị ứng",
+      "Cơ địa suy dinh dưỡng",
+      "Cơ địa thấp còi"
+    ],
     "correct": 1
   },
   {
-    "question": "Câu 24: Để hạn chế tác dụng phụ của corticoide hít, cần phải:",
-    "options": ["Chỉ nên dùng liều thấp hoặc trung bình", "Súc miệng sau khi hít", "Dùng kèm bầu hít", "Không nuốt thuốc vào đường tiêu hóa"],
+    "question": "Câu 6 (Bài 6): Yếu tố gia đình ảnh hưởng đến nguy cơ thấp tim được thể hiện bằng:",
+    "options": [
+      "Trẻ sinh non",
+      "Có người thân bị bệnh thấp tim",
+      "Gia đình đông con",
+      "Cha mẹ hút thuốc lá"
+    ],
     "correct": 1
-  },
-  {
-    "question": "Câu 25: Tác dụng nào sau đây KHÔNG là tác dụng của Theophyline:",
-    "options": ["Giãn phế quản", "Kích thích thần kinh trung ương", "Giảm tiết acid dịch vị", "Tăng sức bóp và tăng nhịp tim"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 26: Khi khám bệnh nhân trong cơn hen phế quản điển hình sẽ có triệu chứng nào sau đây:",
-    "options": ["Hội chứng đông đặc phổi", "Hội chứng hẹp tiểu phế quản do co thắt", "Hội chứng tràn khí màng phổi", "Hội chứng tràn dịch màng phổi"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 27: Biểu hiện của cơn khó thở ở bệnh nhân hen phế quản giai đoạn lên cơn là:",
-    "options": ["Khó thở nhanh, khó thở thì thở ra", "Khó thở chậm, khó thở thì thở vào", "Khó thở chậm, khó thở thì thở ra", "Khó thở nhanh, khó thở thì thở vào"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 28: Không phải là đặc điểm của cơn khó thở trong bệnh hen phế quản là:",
-    "options": ["Khó thở chậm, chủ yếu thì thở ra", "Có tính chất hồi quy", "Đáp ứng với thở oxy", "Đáp ứng với thuốc giãn phế quản"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 221: Trong bệnh phổi tắc nghẽn mạn tính (COPD) có biểu hiện ho mạn tính và khạc đàm, thường bệnh nhân không chú ý đến được xếp vào giai đoạn:",
-    "options": ["Giai đoạn 0", "Giai đoạn I", "Giai đoạn II", "Giai đoạn III"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 222: Bệnh phổi tắc nghẽn mạn tính (COPD) có đặc điểm, NGOẠI TRỪ:",
-    "options": ["Lồng ngực hình thùng", "Khó thở lúc đầu khi gắng sức, sau khó thở cả lúc nghỉ ngơi", "Ho khạc đàm", "Tăng tỉ lệ FEV1/FVC"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 223: Bệnh phổi tắc nghẽn mạn tính (COPD) là bệnh đặc trưng bởi:",
-    "options": ["Sự giới hạn thông khí có hồi phục hoàn toàn", "Sự giới hạn thông khí có hồi phục một phần", "Sự giới hạn thông khí có hồi phục rất hạn chế", "Sự giới hạn thông khí không hồi phục hoàn toàn"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 224: Nguyên nhân của hen phế quản KHÔNG do dị ứng là:",
-    "options": ["Virus cúm", "Thực phẩm", "Thuốc, chất phẩm nhuộm", "Tiền sử gia đình"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 225: Nguyên nhân của hen phế quản do dị ứng là:",
-    "options": ["Di truyền", "Thời tiết lạnh", "Bụi nhà, phấn hoa, thực phẩm", "Gắng sức"],
-    "correct": 2
-  },
-  {
-    "question": "Câu 226: Tính chất đờm đặc hiệu của bệnh hen phế quản là:",
-    "options": ["Đờm nhầy mủ trắng loãng", "Đờm nhầy mủ xanh", "Đờm hồng có bọt", "Đờm trắng dính"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 227: Biện pháp có giá trị nhất giúp người bệnh hen phế quản dễ thở là:",
-    "options": ["Cho người bệnh nằm tư thế Fowler", "Hút đờm dãi cho người bệnh", "Cho người bệnh thở oxy", "Thực hiện y lệnh thuốc giãn phế quản"],
-    "correct": 3
-  },
-  {
-    "question": "Câu 228: Cơn khó thở trong hen phế quản thường xảy ra:",
-    "options": ["Ban đêm", "Ban ngày", "Theo chu kì", "Đột ngột"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 229: Đặc điểm khó thở trong hen phế quản là:",
-    "options": ["Khó thở nhanh thì thở ra", "Khó thở chậm thì thở ra", "Khó thở nhanh thì hít vào", "Khó thở cả 2 thì"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 230: Các yếu tố sau đây làm khởi phát cơn hen, NGOẠI TRỪ:",
-    "options": ["Dị ứng", "Nhiễm khuẩn", "Yếu tố vật lý", "Yếu tố hóa học"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 231: Nội dung giáo dục sức khỏe cho người bệnh để phòng ngừa cơn hen phế quản:",
-    "options": ["Giữ ấm tránh nhiễm lạnh", "Tránh tiếp xúc bụi, phấn hoa, lông thú...", "Hạn chế tiếp xúc với người bệnh hen phế quản", "Dùng thuốc phòng ngừa cơn hen Theophylin"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 232: Để tránh tác dụng phụ khi phải dùng corticoide đường uống trong điều trị hen:",
-    "options": ["Dùng liều bé nhất có thể kiểm soát được triệu chứng", "Dùng thuốc trước 12 giờ trưa", "Dùng 1 ngày, nghỉ 2 ngày", "Dùng kèm thuốc giãn phế quản tác dụng kéo dài"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 233: Để hạn chế nhiễm nấm họng khi dùng corticoide hít:",
-    "options": ["Dùng thuốc kháng nấm định kì", "Súc miệng sau mỗi lần hít", "Dùng chế độ ngày 1 lần", "Hít trực tiếp không qua bầu hít"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 234: Để hạn chế tác dụng phụ của corticoide hít, cần phải:",
-    "options": ["Chỉ nên dùng liều thấp hoặc trung bình", "Súc miệng sau khi hít", "Dùng kèm bầu hít", "Không nuốt thuốc vào đường tiêu hóa"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 236: Khi khám bệnh nhân trong cơn hen phế quản điển hình sẽ có triệu chứng nào sau đây:",
-    "options": ["Hội chứng đông đặc phổi", "Hội chứng hẹp tiểu phế quản do co thắt", "Hội chứng tràn khí màng phổi", "Hội chứng tràn dịch màng phổi"],
-    "correct": 1
-  },
-  {
-    "question": "Câu 237: Biểu hiện của cơn khó thở ở bệnh nhân hen phế quản giai đoạn lên cơn là:",
-    "options": ["Khó thở nhanh, khó thở thì thở ra", "Khó thở chậm, khó thở thì thở vào", "Khó thở chậm, khó thở thì thở ra", "Khó thở nhanh, khó thở thì thở vào"],
-    "correct": 0
-  },
-  {
-    "question": "Câu 238: Không phải là đặc điểm của cơn khó thở trong bệnh hen phế quản là:",
-    "options": ["Khó thở chậm, chủ yếu thì thở ra", "Có tính chất hồi quy", "Đáp ứng với thở oxy", "Đáp ứng với thuốc giãn phế quản"],
-    "correct": 2
   }
 ]
