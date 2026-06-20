@@ -1,802 +1,1562 @@
 [
   {
-    "question": "Câu 1. Tất cả các câu sau đây về sẩy thai đều đúng, ngoại trừ:",
+    "question": "Câu 1. Đặc điểm cấu tạo da trẻ em là:",
     "options": [
-      "Gọi là sẩy thai khi trọng lượng thai nhi tống xuất ra ngoài < 500g.",
-      "Giao hợp trong lúc có thai là một nguyên nhân chính gây sẩy thai.",
-      "Xuất độ sẩy thai sớm cao hơn so với sẩy thai muộn.",
-      "Nếu đang ra máu nhiều, bắt buộc phải nạo gắp thai."
+      "Da dày, ít nước, ít mao mạch",
+      "Da mềm mại, nhiều nước, nhiều mao mạch",
+      "Da khô, lớp sừng phát triển hoàn chỉnh",
+      "Da cứng, đàn hồi tốt"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 2. Sẩy thai tái phát ở ba tháng giữa, nhất là khi chuyển dạ rất nhanh, gợi ý đến chẩn đoán nào sau đây?",
+    "question": "Câu 2. Tuyến mồ hôi của trẻ trong 3–4 tháng đầu sau sinh có đặc điểm nào sau đây?",
     "options": [
-      "U xơ tử cung.",
-      "Hở eo cổ tử cung.",
-      "Bất thường của trứng thụ tinh.",
-      "Thiếu Folic acid."
+      "Phát triển và hoạt động mạnh",
+      "Chưa hình thành",
+      "Phát triển nhưng chưa hoạt động",
+      "Hoạt động tương tự người lớn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 3. Lớp chất gây màu trắng xám trên da trẻ sơ sinh có tác dụng:",
+    "options": [
+      "Chỉ giữ ẩm cho da",
+      "Bảo vệ, giữ nhiệt và miễn dịch",
+      "Chỉ có tác dụng thẩm mỹ",
+      "Là chất thải cần loại bỏ ngay"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 3. Một phụ nữ đến khám vì bị ra máu âm đạo ít nhất 3 ngày nay sau khi trể 2 kỳ kinh. Khám thấy cổ tử cung đóng, thân tử cung to tương đương thai 7-8 tuần, ra máu ít. Chẩn đoán được nghĩ đến nhiều nhất là:",
+    "question": "Câu 4. Lớp mỡ dưới da của trẻ được hình thành từ:",
     "options": [
-      "Doạ sẩy thai.",
-      "Sẩy thai trọn.",
-      "Thai ngoài tử cung.",
-      "Sẩy thai không trọn."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 4. Thai ngoài tử cung vỡ có dấu hiệu xuất huyết nội, mạch 100 lần/ phút, huyết áp 80/50mmHg. Xử trí nên làm:",
-    "options": [
-      "Nội soi ổ bụng.",
-      "Truyền máu hồi sức sau đó nội soi.",
-      "Nâng thể trạng đồng thời mở bụng cấp cứu.",
-      "Mổ nội soi hoặc mở bụng đều được."
+      "Tháng thứ 5–6 thai kỳ",
+      "Tháng thứ 6–7 thai kỳ",
+      "Tháng thứ 7–8 thai kỳ",
+      "Sau khi sinh"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 5. Vị trí ít gặp nhất của thai ngoài tử cung là:",
+    "question": "Câu 5. Nguyên nhân khiến trẻ dễ bị cứng bì khi lạnh là do:",
     "options": [
-      "Đoạn bóng ống dẫn trứng.",
-      "Đoạn kẽ ống dẫn trứng.",
-      "Loa vòi.",
-      "Buồng trứng."
+      "Nhiều acid béo no",
+      "Ít mao mạch",
+      "Nhiều acid béo không no",
+      "Tuyến mồ hôi kém hoạt động"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
-    "question": "Câu 6. Nguyên nhân của thai ngoài tử cung có thể là:",
+    "question": "Câu 6. Chức năng bảo vệ của da trẻ còn hạn chế chủ yếu do:",
     "options": [
-      "Tiền căn viêm nhiễm tai vòi.",
-      "Tai vòi dài bất thường.",
-      "Các xơ dính do phẫu thuật trước đó.",
-      "Tất cả các câu trên đều đúng."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 7. Phụ nữ nào sau đây dễ có nguy cơ thai ngoài tử cung nhất:",
-    "options": [
-      "Có tiền căn bị lạc nội mạc tử cung.",
-      "Có tiền căn viêm nhiễm sinh dục nhiều lần.",
-      "Có chu kỳ kinh không đều.",
-      "Có tiền căn bị nhiễm trùng tiểu."
+      "Da dày và ít mạch máu",
+      "Lớp sừng chưa hoàn chỉnh",
+      "Tuyến mồ hôi hoạt động mạnh",
+      "Lớp mỡ dưới da dày"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 8. Dấu hiệu lâm sàng nào sau đây thường gặp nhất trong thai trứng?",
+    "question": "Câu 7. Da tham gia tổng hợp vitamin D dưới tác dụng của:",
     "options": [
-      "Rong huyết.",
-      "Tử cung lớn hơn tuổi thai.",
-      "Có dấu hiệu tiền sản giật.",
-      "Có nang hoàng tuyến."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 9. Sau khi hút nạo thai trứng, hướng xử trí tiếp theo là:",
-    "options": [
-      "Hóa dự phòng + theo dõi.",
-      "Hóa dự phòng + cắt tử cung.",
-      "Cắt luôn 2 phần phụ vì để sẽ phát triển thành ung thư.",
-      "Không làm gì, theo dõi sát sự thu hồi tử cung và diễn tiến của hCG."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 10. Chảy máu bất thường ở tử cung không phải do biến chứng thai nghén:",
-    "options": [
-      "Viêm nội mạc tử cung sau sanh.",
-      "Sót nhau.",
-      "Thai ngoài tử cung.",
-      "Lạc nội mạc tử cung."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 11. Một phụ nữ trễ kinh một tháng, sau đó bị rong huyết kéo dài. Siêu âm cho thấy tử cung nhỏ hơn so với tuổi thai, trong lòng tử cung có các phản âm hỗn hợp không đồng nhất, không thấy phôi thai, buồng tử cung không giãn rộng. Hai phần phụ không thấy gì bất thường. Chẩn đoán siêu âm được nghĩ đến nhiều nhất là:",
-    "options": [
-      "Dọa sẩy thai.",
-      "Sẩy thai không trọn.",
-      "Thai ngoài tử cung.",
-      "Thai trứng."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 12. Theo định nghĩa, nhau tiền đạo là:",
-    "options": [
-      "Nhau bám vị trí đáy tử cung.",
-      "Nhau không bám vùng đáy tử cung.",
-      "Nhau bám mặt trước tử cung.",
-      "Nhau bám vùng sau tử cung."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 13. Trong kiểm tra màng nhau, đo được khoảng cách từ bờ nhau đến lỗ đầu ối dưới 10 cm là:",
-    "options": [
-      "Nhau tiền đạo trung tâm.",
-      "Nhau tiền đạo bán trung tâm.",
-      "Nhau bám thấp.",
-      "Nhau bám mép."
+      "Ánh sáng hồng ngoại",
+      "Tia X",
+      "Tia cực tím",
+      "Ánh sáng nhân tạo"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 14. Theo định nghĩa, nhau tiền đạo trung tâm là:",
+    "question": "Câu 8. Hệ cơ của trẻ sơ sinh chiếm khoảng bao nhiêu % trọng lượng cơ thể?",
     "options": [
-      "Một phần bánh nhau bám ở dưới phủ kín lỗ trong cổ tử cung.",
-      "Một phần bánh nhau bám ở dưới che kín nửa lỗ trong tử cung.",
-      "Một phần bánh nhau bám ở bên đoạn dưới tử cung.",
-      "Một phần bánh nhau bám ở mép cổ tử cung."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 15. Triệu chứng ra máu điển hình trong nhau tiền đạo là:",
-    "options": [
-      "Ra máu đỏ tươi, hay tái phát nhiều lần.",
-      "Ra máu bầm đen, đột ngột hay tái phát nhiều lần.",
-      "Ra máu ít, khi có cơn gò tử cung.",
-      "Ra máu đỏ tự nhiên, đột ngột ngừng lại, hay tái phát nhiều lần."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 16. Nguyên nhân thường gặp nhất trong nhau tiền đạo là:",
-    "options": [
-      "Con so, thai đủ tháng.",
-      "Đa sản, nạo sẩy thai nhiều lần.",
-      "Tiền sử thai lưu.",
-      "Con rạ lần 2, ngôi chỏm."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 17. Chẩn đoán nhau tiền đạo qua siêu âm dựa vào:",
-    "options": [
-      "Đo chiều dầy bánh nhau.",
-      "Khảo sát bánh nhau phụ.",
-      "Vị trí bánh nhau bám có phủ lỗ trong cổ tử cung hay không.",
-      "Đo chỉ số nước ối."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 18. Chẩn đoán phân biệt nhau tiền đạo với các chảy máu thường gặp khác là:",
-    "options": [
-      "Nhau bong non.",
-      "Thai đủ tháng.",
-      "Thai quá ngày.",
-      "Con so, ngôi chỏm."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 19. Hướng xử trí nhau tiền đạo chảy máu trong chuyển dạ, tại tuyến xã là:",
-    "options": [
-      "Khám âm đạo để xác định ngôi thai.",
-      "Đặt mỏ vịt khám tìm nguyên nhân.",
-      "Không được khám, tư vấn chuyển tuyến trên gần nhất.",
-      "Không khám, giới thiệu thai phụ tự đi lên tuyến trên."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 20. Theo định nghĩa, nhau bong non là:",
-    "options": [
-      "Nhau bám đúng vị trí, nhưng đã bong khi thai còn nằm trong tử cung.",
-      "Nhau bám không đúng vị trí, nhưng đã bong ra sớm.",
-      "Nhau bong sớm, khi thai đã sổ.",
-      "Nhau bong trước khi chuyển dạ."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 21. Trong nhau bong non thường đi kèm bệnh lý nào sau đây:",
-    "options": [
-      "Sốt xuất huyết.",
-      "Tiền sản giật nặng.",
-      "Nhiễm trùng tiểu.",
-      "Thiếu máu."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 22. Nhau bong non do chấn thương thường gặp:",
-    "options": [
-      "Có thai đủ tháng, bị tai nạn giao thông.",
-      "Tiền sản giật nặng.",
-      "Phù phổi cấp.",
-      "Suy tim."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 23. Biến chứng nặng nhất trong nhau bong non là:",
-    "options": [
-      "Thai suy.",
-      "Suy tim.",
-      "Rối loạn đông máu.",
-      "Phù phổi cấp."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 24. Triệu chứng nào sau đây gặp trong nhau bong non thể nặng:",
-    "options": [
-      "Tử cung gò trong chuyển dạ.",
-      "Trương lực cơ bản tăng, tử cung gò liên tục, cứng như gỗ.",
-      "Tử cung không có cơn gò.",
-      "Ra máu âm đạo đỏ tươi."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 25. Theo định nghĩa, thai chết trong tử cung khi tuổi thai là:",
-    "options": [
-      "Thai chết khi tuổi thai từ 12 tuần trở lên.",
-      "Thai lưu lại trong tử cung ít nhất là 18 giờ trước khi chuyển dạ.",
-      "Thai chết trong tử cung ở tuổi thai từ 32 tuần trở lên.",
-      "Thai chết khi tuổi thai từ 22 tuần trở lên."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 26. Nguyên nhân nào sau đây, ít nghĩ tới thai chết trong tử cung?",
-    "options": [
-      "Thai quá ngày sinh.",
-      "Thai suy dinh dưỡng nặng.",
-      "Thai đủ tháng, ngôi chỏm.",
-      "Bất đồng nhóm máu Rh."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 27. Thời gian tối thiểu từ lúc thai chết đến lúc tống xuất tự nhiên ra ngoài là:",
-    "options": [
-      "12 giờ.",
-      "24 giờ.",
-      "16 giờ.",
-      "48 giờ."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 28. Triệu chứng lâm sàng nào sau đây thường gặp trong thai lưu:",
-    "options": [
-      "Ra máu âm đạo đỏ tươi, nhiều.",
-      "Bề cao tử cung nhỏ, nghe không thấy tim thai.",
-      "Ra máu sậm đen ít.",
-      "Đau bụng, bụng cứng như gỗ."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 29. Thai chết trong tử cung nếu ối vỡ thường gặp nguy cơ nào?",
-    "options": [
-      "Nhiễm khuẩn rất cao.",
-      "Viêm phổi.",
-      "Suy tim.",
-      "Nhau bong non."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 30. Thai chết trong tử cung, không được phép xử trí tại tuyến cơ sở nào sau đây:",
-    "options": [
-      "Tuyến tỉnh.",
-      "Tuyến huyện.",
-      "Tuyến xã.",
-      "Tuyến Trung ương."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 31. Tuần tự các giai đoạn của một cơn sản giật điển hình là:",
-    "options": [
-      "Co giật - xâm nhiễm - co cứng - hôn mê.",
-      "Co cứng - co giật - xâm nhiễm - hôn mê.",
-      "Xâm nhiễm - co cứng - co giật - hôn mê.",
-      "Xâm nhiễm - co giật - co cứng - hôn mê."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 32. Tăng huyết áp (THA) trong thời kỳ có thai là THA xuất hiện:",
-    "options": [
-      "Trước khi có thai.",
-      "Sau khi đẻ.",
-      "Từ tuần thứ 20 của thai kỳ và mất đi chậm nhất là 6 tuần sau đẻ.",
-      "Bất kỳ giai đoạn nào của thai kỳ."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 33. Yếu tố nào sau đây không phải là yếu tố thuận lợi của bệnh Tiền sản giật:",
-    "options": [
-      "Đa thai.",
-      "Thai phụ trên 40 tuổi.",
-      "Thời tiết mùa hè, môi trường nóng bức.",
-      "Làm việc quá sức."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 34. Chọn một câu sai trong tiền sản giật:",
-    "options": [
-      "Protein niệu là một dấu hiệu quan trọng của Tiền sản giật.",
-      "Mức độ tăng huyết áp bao giờ cũng tương quan với mức độ nặng của tổn thương các cơ quan.",
-      "Phù ít có giá trị trong tiên lượng bệnh.",
-      "Tiền sản giật nhẹ cũng có thể có biến chứng sản giật."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 35. Triệu chứng có giá trị tiên lượng nhất trong tăng huyết áp với thai nghén là:",
-    "options": [
-      "Phù.",
-      "Protein niệu.",
-      "Huyết áp cao.",
-      "Tiểu ít."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 36. Theo phân loại huyết áp cao trong thai kỳ, hội chứng tiền sản giật - sản giật thuộc nhóm:",
-    "options": [
-      "Huyết áp cao do thai đơn thuần.",
-      "Huyết áp cao do thai có kèm albumine/ niệu hoặc phù.",
-      "Huyết áp cao mãn tính có kèm theo biến chứng ở thận.",
-      "Huyết áp cao ngẫu nhiên phối hợp với thai kỳ."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 37. Tổn thương thận hay phối hợp với tiền sản giật nhất là:",
-    "options": [
-      "Phù nề nội mô cầu thận.",
-      "Viêm đài bể thận.",
-      "Hoại tử vỏ thận.",
-      "Hoại tử ống thận cấp."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 38. Trong trường hợp mẹ bị tiền sản giật nặng, tiên lượng xấu cho thai vì:",
-    "options": [
-      "Có thể phải chấm dứt thai kỳ khi thai còn non tháng.",
-      "Kém phát triển bào thai.",
-      "Sang chấn do can thiệp thủ thuật.",
-      "Tất cả các câu trên đều đúng."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 39. Trong các loại cao huyết áp do thai kỳ, loại nào có tiên lượng xấu nhất cho cả mẹ và thai:",
-    "options": [
-      "Cao huyết áp do thai đơn thuần.",
-      "Cao huyết áp do thai có kèm albumin niệu hoặc phù.",
-      "Cao huyết áp mãn tính và thai.",
-      "Cao huyết áp nặng lên do thai."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 40. Trong nhau tiền đạo, yếu tố chính gây gia tăng tử suất và bệnh suất cho trẻ sơ sinh là:",
-    "options": [
-      "Suy dinh dưỡng trong tử cung.",
-      "Non tháng.",
-      "Thiếu máu.",
-      "Dị dạng."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 41. Tất cả những câu sau đây đều đúng, ngoại trừ:",
-    "options": [
-      "Thể nhau tiền đạo trung tâm thường gây chảy máu trầm trọng hơn thể nhau bám thấp.",
-      "Có khi nhau tiền đạo không có triệu chứng lâm sàng rõ ràng.",
-      "Thường gặp ở các sản phụ lớn tuổi, đa sản, có tiền căn nạo thai nhiều lần.",
-      "Tỉ lệ sanh ngả âm đạo trong nhau tiền đạo cao hơn tỉ lệ mổ lấy thai."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 42. Ra máu âm đạo trong nhau tiền đạo, chọn câu đúng nhất:",
-    "options": [
-      "Luôn luôn đi kèm với cơn gò tử cung.",
-      "Máu bầm đen.",
-      "Đôi khi gây nên một tình trạng thai suy trầm trọng.",
-      "Xuất hiện từ từ và chấm dứt từ từ."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 43. Trong trường hợp nghi ngờ nhau tiền đạo, ra ít máu, có chỉ định thăm khám âm đạo trong tình huống nào sau đây?",
-    "options": [
-      "Thai non tháng.",
-      "Thai 37 tuần, chưa chuyển dạ.",
-      "Tim thai không nghe.",
-      "Có cơn gò tử cung đau."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 44. Ngoài triệu chứng ra máu âm đạo, triệu chứng nào dưới đây gợi ý nhiều nhất đến chẩn đoán nhau tiền đạo?",
-    "options": [
-      "Tim thai chậm.",
-      "Tim thai khó nghe.",
-      "Nước ối có lẫn máu.",
-      "Ngôi thai cao một cách bất thường."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 45. Trong nhau tiền đạo, lý do chính khiến chỉ ra máu trong 3 tháng cuối của thai kỳ là do khoảng thời gian này có đặc điểm:",
-    "options": [
-      "Nhau phát triển to, lan xuống đoạn dưới.",
-      "Đoạn dưới dãn nhanh gây tróc nhau.",
-      "Các xoang tĩnh mạch chỉ được thành lập vào thời điểm này.",
-      "Thai cử động mạnh gây tróc nhau."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 46. Phương pháp cận lâm sàng chính xác và an toàn nhất giúp chẩn đoán nhau tiền đạo là:",
-    "options": [
-      "Chụp X quang phần mềm.",
-      "Chụp X quang động mạch.",
-      "Đồng vị phóng xạ.",
-      "Siêu âm."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 47. Nguyên nhân nào sau đây thường gây thai chết lưu?",
-    "options": [
-      "Thai già tháng.",
-      "Cao huyết áp trong thai kỳ.",
-      "Tiểu đường.",
-      "Tất cả các câu trên đều đúng."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 48. Thai chết lưu dưới 12 tuần có hình ảnh siêu âm thường gặp nào?",
-    "options": [
-      "Túi thai không chứa phôi hay có phôi nhưng không có tim phôi.",
-      "Thai bị gập lại.",
-      "Gai nhau thoái hóa nước.",
-      "Dấu chồng sọ."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 49. Tất cả các đặc điểm của cuộc chuyển dạ trong thai chết lưu sau đây đều đúng, ngoại trừ:",
-    "options": [
-      "Cơn co tử cung thường yếu.",
-      "Hiện tượng mở cổ tử cung thường chậm do màng ối mất tính căng.",
-      "Dễ có ngôi bất thường.",
-      "Dễ gây chấn thương cho đường sinh dục cho sản phụ."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 50. Dấu hiệu nào sau đây không có giá trị giúp chẩn đoán thai chết lưu:",
-    "options": [
-      "Nặn ngực thấy chảy sữa non.",
-      "Soi ối thấy nước ối có màu đỏ nâu.",
-      "X quang thấy có dấu hiệu chồng sọ.",
-      "Siêu âm không thấy cử động thai và hoạt động tim thai."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 51. Rối loạn đông máu trong thai chết lưu chủ yếu là do:",
-    "options": [
-      "Giảm thromboplastine.",
-      "Giảm fibrinogene.",
-      "Giảm fibrinolysine.",
-      "Giảm yếu tố VIII."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 52. Trong nhau bong non, chọn câu sai:",
-    "options": [
-      "Thai có nguy cơ tử vong.",
-      "Cơn gò cường tính.",
-      "Ra máu âm đạo bầm đen không đông.",
-      "Có thể dựa vào lượng máu chảy ra ngoài để quyết định mức độ hồi sức."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 53. Về nhau bong non, chọn một câu đúng:",
-    "options": [
-      "Luôn luôn có triệu chứng albumin niệu đi kèm.",
-      "Có thể đánh giá mức độ nặng nhẹ dựa vào lượng máu ra ngoài âm đạo.",
-      "Một biến biến chứng có thể là vô niệu.",
-      "Trong thể phong huyết tử cung nhau, bắt buộc phải mổ cắt tử cung."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 54. Tình trạng nào sau đây thường kết hợp với nhau bong non:",
-    "options": [
-      "Thai phụ làm việc quá sức.",
-      "Cao huyết áp.",
-      "Dây rốn ngắn.",
-      "Suy thai trường diễn trong tử cung."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 55. Tỷ lệ tái phát của thai ngoài tử cung là:",
-    "options": [
-      "5%",
-      "10%",
       "15%",
-      "20%"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 56. Vị trí ít gặp nhất của thai ngoài tử cung là:",
-    "options": [
-      "Đoạn bóng ống dẫn trứng.",
-      "Đoạn kẽ ống dẫn trứng.",
-      "Buồng trứng.",
-      "Đoạn eo ống dẫn trứng."
+      "20%",
+      "23%",
+      "30%"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 57. Nguyên nhân nào sau đây ít được nghĩ đến nhất trong xuất huyết hậu sản?",
+    "question": "Câu 9. Các cơ phát triển sớm ở trẻ em là:",
     "options": [
-      "Sót nhau.",
-      "Sót màng nhau.",
-      "Tử cung co hồi kém.",
-      "Nhiễm trùng tử cung."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 58. Điều nào sau đây không kết hợp với tăng tỉ lệ sẩy thai:",
-    "options": [
-      "Mẹ lớn tuổi.",
-      "Cha lớn tuổi.",
-      "Tử cung nhi hóa.",
-      "Khung chậu hẹp."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 59. Chọn câu SAI, bệnh nguyên bào nuôi gồm:",
-    "options": [
-      "Thai trứng toàn phần.",
-      "Thai trứng bán phần.",
-      "Thai trứng xâm lấn.",
-      "Trứng trống."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 60. Trong thai trứng bán phần:",
-    "options": [
-      "Các mô trứng chỉ chiếm một phần buồng tử cung.",
-      "Luôn luôn có nang hoàng tuyến.",
-      "Vừa có mô nhau bình thường vừa có mô trứng.",
-      "Cường giáp."
+      "Cơ bàn tay, ngón tay",
+      "Cơ cổ và lưng",
+      "Cơ đùi, mông, vai",
+      "Cơ mặt"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 61. Xét nghiệm nào là tốt nhất để chẩn đoán thai chết lưu:",
+    "question": "Câu 10. Tăng trương lực cơ sinh lý ở trẻ nhỏ biểu hiện bằng:",
     "options": [
-      "Siêu âm.",
-      "hCG.",
-      "X Quang.",
-      "Công thức máu."
+      "Tay chân duỗi thẳng",
+      "Tay chân mềm nhẽo",
+      "Tay chân co, bàn tay nắm chặt",
+      "Co cứng toàn thân"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 11. Xương trẻ em dễ gãy kiểu “cành cây tươi” do:",
+    "options": [
+      "Ít nước, nhiều muối khoáng",
+      "Nhiều nước, ít muối khoáng",
+      "Quá trình cốt hóa hoàn chỉnh",
+      "Xương đặc, cứng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 12. Thóp trước của trẻ thường kín vào thời điểm:",
+    "options": [
+      "6 tháng",
+      "9 tháng",
+      "12–18 tháng",
+      "24 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 13. Trẻ bắt đầu thay răng sữa bằng răng vĩnh viễn vào khoảng:",
+    "options": [
+      "4–5 tuổi",
+      "5–6 tuổi",
+      "6–7 tuổi",
+      "8–9 tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 14. Phế quản phải rộng hơn phế quản trái nên:",
+    "options": [
+      "Ít bị viêm hơn",
+      "Dị vật dễ rơi vào bên phải",
+      "Dẫn khí kém hơn",
+      "Dễ xẹp phổi hơn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 15. Trẻ sơ sinh thở chủ yếu bằng:",
+    "options": [
+      "Thở ngực",
+      "Thở hỗn hợp",
+      "Thở cơ hoành",
+      "Thở miệng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 16. Nhịp thở trung bình của trẻ sơ sinh là:",
+    "options": [
+      "20–30 lần/phút",
+      "30–40 lần/phút",
+      "40–60 lần/phút",
+      "60–80 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 17. Thể tích khí lưu thông (Vt) của trẻ 1 tuổi khoảng:",
+    "options": [
+      "25 ml",
+      "50 ml",
+      "70 ml",
+      "120 ml"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 18. Tuần hoàn rau thai không tách biệt hoàn toàn do tồn tại:",
+    "options": [
+      "Van hai lá",
+      "Lỗ Botal và ống động mạch",
+      "Van động mạch chủ",
+      "Tĩnh mạch rốn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 19. Mạch trung bình của trẻ 1 tuổi là:",
+    "options": [
+      "80 lần/phút",
+      "90 lần/phút",
+      "100 lần/phút",
+      "120–125 lần/phút"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 20. Công thức tính huyết áp tối đa của trẻ trên 1 tuổi là:",
+    "options": [
+      "70 + 2n",
+      "80 + 2n",
+      "90 + n",
+      "100 + n"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 21. Cơ quan tạo máu chủ yếu sau sinh ở trẻ đủ tháng là:",
+    "options": [
+      "Gan",
+      "Lách",
+      "Tủy xương",
+      "Hạch lympho"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 22. Huyết sắc tố của trẻ sơ sinh có đặc điểm:",
+    "options": [
+      "Thấp hơn người lớn",
+      "Bằng người lớn",
+      "Cao hơn người lớn",
+      "Không thay đổi theo tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 23. Ở trẻ ≥ 1 tuổi, thành phần Hb chiếm tỷ lệ cao nhất là:",
+    "options": [
+      "HbF",
+      "HbA1",
+      "HbA2",
+      "HbE"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 24. Phân su của trẻ sơ sinh có đặc điểm:",
+    "options": [
+      "Màu vàng, mùi chua",
+      "Màu xanh thẫm, không mùi",
+      "Màu nâu, mùi nặng",
+      "Màu xám, nhiều vi khuẩn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 25. Dung tích dạ dày của trẻ 1 tuổi khoảng:",
+    "options": [
+      "100 ml",
+      "150 ml",
+      "200 ml",
+      "250 ml"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 26. Thận trẻ sơ sinh dễ di động do:",
+    "options": [
+      "Bao thận mỏng",
+      "Tổ chức mỡ quanh thận chưa phát triển",
+      "Thận nhỏ",
+      "Dây chằng yếu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 27. Chức năng lọc cầu thận của trẻ sơ sinh đạt khoảng bao nhiêu so với trẻ lớn?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 28. Số lần đi tiểu trung bình của trẻ 1 tuổi trong ngày là:",
+    "options": [
+      "6–8 lần",
+      "8–10 lần",
+      "12–16 lần",
+      "18–20 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 29. Công thức tính lượng nước tiểu 24 giờ cho trẻ 2–7 tuổi là:",
+    "options": [
+      "V = 500 + 50N",
+      "V = 600 + 100(N–1)",
+      "V = 700 + 50(N–1)",
+      "V = 800 + 100N"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 30. Tỷ trọng nước tiểu bình thường của trẻ em dao động trong khoảng:",
+    "options": [
+      "1,000 – 1,010",
+      "1,002 – 1,030",
+      "1,010 – 1,040",
+      "1,020 – 1,050"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 1. Cân nặng trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "2,0 – 2,4 kg",
+      "2,5 – 2,7 kg",
+      "2,8 – 3,0 kg",
+      "3,5 – 4,0 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 2. Trẻ sơ sinh có cân nặng dưới 2,5 kg thường được xếp vào nhóm:",
+    "options": [
+      "Trẻ quá to",
+      "Trẻ đủ tháng bình thường",
+      "Trẻ đẻ non, đẻ yếu hoặc SDD bào thai",
+      "Trẻ phát triển tốt"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 3. Trẻ được coi là quá to khi cân nặng lúc sinh từ:",
+    "options": [
+      "≥ 3,5 kg",
+      "≥ 3,8 kg",
+      "≥ 4,0 kg",
+      "≥ 4,2 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 4. Trong 6 tháng đầu đời, trung bình mỗi tháng trẻ tăng khoảng:",
+    "options": [
+      "400 g",
+      "500 g",
+      "600 g",
+      "700 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 5. Đến cuối năm đầu, cân nặng trẻ thường:",
+    "options": [
+      "Gấp 1,5 lần lúc sinh",
+      "Gấp 2 lần lúc sinh",
+      "Gấp 2,5 lần lúc sinh",
+      "Gấp 3 lần lúc sinh"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 6. Công thức tính cân nặng trẻ trong 6 tháng đầu là:",
+    "options": [
+      "P = Pđẻ + 400.n",
+      "P = Pđẻ + 500.n",
+      "P = Pđẻ + 600.n",
+      "P = Pđẻ + 700.n"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 7. Trong 6 tháng cuối năm đầu, trung bình mỗi tháng trẻ tăng:",
+    "options": [
+      "200 g",
+      "300 g",
+      "400 g",
+      "500 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 8. Trẻ sinh 3.000 g, 12 tháng tuổi, cân nặng ước tính là:",
+    "options": [
+      "8.200 g",
+      "8.600 g",
+      "9.000 g",
+      "9.600 g"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 9. Từ 1–9 tuổi, trung bình mỗi năm trẻ tăng cân khoảng:",
+    "options": [
+      "1,0 kg",
+      "1,2 kg",
+      "1,5 kg",
+      "2,0 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 10. Từ 10–15 tuổi, cân nặng trung bình mỗi năm tăng khoảng:",
+    "options": [
+      "2 kg",
+      "3 kg",
+      "4 kg",
+      "5 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 11. Chiều cao trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "45–47 cm",
+      "46–48 cm",
+      "48–50 cm",
+      "50–52 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 12. Trẻ sơ sinh có chiều cao dưới 45 cm thường là:",
+    "options": [
+      "Trẻ quá to",
+      "Trẻ đủ tháng",
+      "Trẻ đẻ non",
+      "Trẻ phát triển nhanh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 13. Trong năm đầu đời, chiều cao trẻ tăng thêm khoảng:",
+    "options": [
+      "18–20 cm",
+      "20–22 cm",
+      "22–23 cm",
+      "24–25 cm"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 14. Quý I năm đầu, trung bình mỗi tháng trẻ tăng chiều cao:",
+    "options": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "3,5 cm"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 15. Chiều cao trung bình của trẻ lúc 1 tuổi khoảng:",
+    "options": [
+      "70 cm",
+      "72 cm",
+      "75 cm",
+      "78 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 16. Trung bình mỗi năm sau 1 tuổi, chiều cao trẻ tăng khoảng:",
+    "options": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 17. Công thức tính chiều cao trẻ trên 1 tuổi là:",
+    "options": [
+      "H = 70 + 5(N–1)",
+      "H = 75 + 4(N–1)",
+      "H = 75 + 5(N–1)",
+      "H = 80 + 5(N–1)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 18. Vòng đầu trung bình của trẻ sơ sinh là:",
+    "options": [
+      "32 cm",
+      "33 cm",
+      "34 cm",
+      "35 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 19. Vòng đầu của trẻ 1 tuổi khoảng:",
+    "options": [
+      "44 cm",
+      "45 cm",
+      "46 cm",
+      "48 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 20. Lúc mới sinh, vòng ngực của trẻ so với vòng đầu thường:",
+    "options": [
+      "Bằng nhau",
+      "Lớn hơn 1–2 cm",
+      "Nhỏ hơn 1–2 cm",
+      "Nhỏ hơn 3–4 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 21. Ở thời điểm khoảng 6 tháng tuổi:",
+    "options": [
+      "Vòng ngực nhỏ hơn vòng đầu",
+      "Vòng ngực bằng vòng đầu",
+      "Vòng ngực lớn hơn vòng đầu",
+      "Không có sự thay đổi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 22. Vòng cánh tay dưới 12 cm ở trẻ 1–5 tuổi cho thấy:",
+    "options": [
+      "Trẻ phát triển bình thường",
+      "Trẻ thừa cân",
+      "Trẻ SDD nhẹ",
+      "Trẻ SDD nặng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 23. Tuyến nội tiết có vai trò quan trọng trong tăng trưởng thể chất, KHÔNG bao gồm:",
+    "options": [
+      "Tuyến yên",
+      "Tuyến giáp",
+      "Tuyến tụy",
+      "Tuyến sinh dục"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 24. Yếu tố ngoại sinh ảnh hưởng lớn nhất đến tăng trưởng trẻ em là:",
+    "options": [
+      "Di truyền",
+      "Dinh dưỡng",
+      "Giới tính",
+      "Tuổi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 25. Trẻ sơ sinh trung bình ngủ mỗi ngày khoảng:",
+    "options": [
+      "14–16 giờ",
+      "16–18 giờ",
+      "18–20 giờ",
+      "20–23 giờ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 2-3 - Câu 26. Phản xạ Moro ở trẻ sơ sinh xuất hiện khi:",
+    "options": [
+      "Chạm vào lòng bàn tay",
+      "Chạm vào má",
+      "Vỗ vào thành giường",
+      "Đặt trẻ nằm sấp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 27. Trẻ khoảng 6 tháng tuổi có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Đi được một mình",
+      "Biết lạ, phân biệt mẹ và người lạ",
+      "Biết nói câu dài",
+      "Vẽ được hình tròn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 28. Trẻ 7–9 tháng tuổi thường có khả năng:",
+    "options": [
+      "Đi vững",
+      "Nói câu hoàn chỉnh",
+      "Bò giỏi và vịn đứng",
+      "Chạy nhanh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 2-3 - Câu 29. Trẻ khoảng 18 tháng tuổi thường có khả năng nào sau đây?",
+    "options": [
+      "Nhảy một chân",
+      "Đi nhanh, chạy và nói câu ngắn",
+      "Đọc chữ cái",
+      "Vẽ hình vuông"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 2-3 - Câu 30. Test Denver được sử dụng chủ yếu để:",
+    "options": [
+      "Chẩn đoán bệnh nội khoa",
+      "Đánh giá trí tuệ người lớn",
+      "Sàng lọc chậm phát triển ở trẻ trước 6 tuổi",
+      "Đánh giá thể lực học sinh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 1. Từ khi sinh ra đến khi trưởng thành, cân nặng của trẻ tăng khoảng:",
+    "options": [
+      "10 lần",
+      "15 lần",
+      "20 lần",
+      "25 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 2. Chiều cao của trẻ từ sơ sinh đến trưởng thành tăng khoảng:",
+    "options": [
+      "2 – 2,5 lần",
+      "3 – 3,5 lần",
+      "3,5 – 4 lần",
+      "4,5 – 5 lần"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 3. Yếu tố quyết định chủ yếu đến tăng trưởng của trẻ em là:",
+    "options": [
+      "Di truyền",
+      "Giới tính",
+      "Nuôi dưỡng",
+      "Môi trường"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 4. Sữa mẹ là thức ăn tốt nhất cho trẻ trong giai đoạn:",
+    "options": [
+      "0 – 3 tháng",
+      "0 – 4 tháng",
+      "0 – 5 tháng",
+      "0 – 6 tháng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 5. Chế độ nuôi dưỡng trẻ vừa bú mẹ vừa uống sữa bò được gọi là:",
+    "options": [
+      "Ăn dặm",
+      "Ăn bổ sung",
+      "Ăn hỗn hợp",
+      "Ăn nhân tạo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 6. Sữa mẹ được bài tiết theo cơ chế chủ yếu nào sau đây?",
+    "options": [
+      "Cơ chế tự động",
+      "Cơ chế phản xạ",
+      "Cơ chế nội tiết độc lập",
+      "Cơ chế hấp thu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 7. Prolactin là hormon do thùy nào của tuyến yên tiết ra?",
+    "options": [
+      "Thùy sau",
+      "Thùy giữa",
+      "Thùy trước",
+      "Vùng dưới đồi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 8. Vai trò chính của prolactin trong nuôi con bằng sữa mẹ là:",
+    "options": [
+      "Co cơ tuyến vú",
+      "Tạo sữa",
+      "Cầm máu sau đẻ",
+      "Co hồi tử cung"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 9. Oxytocin có tác dụng chủ yếu nào sau đây?",
+    "options": [
+      "Kích thích tế bào tạo sữa",
+      "Ức chế rụng trứng",
+      "Đẩy sữa xuống xoang sữa",
+      "Tăng hấp thu chất dinh dưỡng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 10. Yếu tố nào sau đây kích thích phản xạ tiết sữa của oxytocin?",
+    "options": [
+      "Lo âu, căng thẳng",
+      "Sang chấn tinh thần",
+      "Niềm vui, hạnh phúc",
+      "Lao động nặng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 11. Nhu cầu năng lượng của bà mẹ đang cho con bú trung bình khoảng:",
+    "options": [
+      "2200 kcal/ngày",
+      "2500 kcal/ngày",
+      "2700 – 2800 kcal/ngày",
+      "3000 – 3200 kcal/ngày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 12. Khi trong vú còn nhiều sữa sau mỗi lần bú sẽ gây hậu quả nào sau đây?",
+    "options": [
+      "Kích thích tạo sữa",
+      "Không ảnh hưởng",
+      "Ức chế quá trình tạo sữa",
+      "Tăng chất lượng sữa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 13. Biện pháp quan trọng để kích thích tạo sữa là:",
+    "options": [
+      "Cho trẻ bú ít lần",
+      "Để sữa ứ trong vú",
+      "Vắt kiệt sữa sau mỗi lần bú",
+      "Hạn chế cho trẻ bú ban đêm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 14. Việc nai nịt vú quá chặt sẽ:",
+    "options": [
+      "Tăng lượng sữa",
+      "Không ảnh hưởng",
+      "Ức chế quá trình tạo sữa",
+      "Làm sữa đặc hơn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 15. Nhóm thuốc nào có thể làm giảm sự tạo sữa?",
+    "options": [
+      "Vitamin",
+      "Thuốc lợi tiểu nhóm thiazid",
+      "Thuốc bổ sung sắt",
+      "Men tiêu hóa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 16. Sữa non được tiết ra chủ yếu trong thời gian:",
+    "options": [
+      "24 giờ đầu sau đẻ",
+      "1 – 2 ngày sau đẻ",
+      "2 – 3 ngày đầu sau đẻ",
+      "Tuần đầu sau đẻ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 17. Đặc điểm nổi bật của sữa non là:",
+    "options": [
+      "Ít năng lượng, ít vitamin",
+      "Giàu protein và vitamin A",
+      "Nhiều casein",
+      "Khó tiêu hóa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 18. Thành phần kháng thể chủ yếu trong sữa mẹ là:",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgA tiết"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 19. Lactoferrin trong sữa mẹ có tác dụng chính là:",
+    "options": [
+      "Tăng hấp thu lipid",
+      "Kích thích tiêu hóa",
+      "Gắn sắt, ức chế vi khuẩn",
+      "Trung hòa acid dạ dày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 20. Trẻ bú mẹ ít bị thiếu máu thiếu sắt vì:",
+    "options": [
+      "Sữa mẹ nhiều sắt",
+      "Sắt trong sữa mẹ dễ hấp thu",
+      "Trẻ bú mẹ ăn nhiều hơn",
+      "Sữa mẹ giàu vitamin C"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 21. Ăn nhân tạo là chế độ ăn áp dụng cho trẻ dưới:",
+    "options": [
+      "3 tháng",
+      "4 tháng",
+      "5 – 6 tháng",
+      "12 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 22. Loại sữa ít được sử dụng cho trẻ do thành phần khác xa sữa mẹ là:",
+    "options": [
+      "Sữa bò",
+      "Sữa trâu",
+      "Sữa dê",
+      "Sữa cừu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 4 - Câu 23. Sữa loại I dùng cho trẻ trong độ tuổi nào?",
+    "options": [
+      "3 ngày đầu",
+      "1 tháng đầu",
+      "2 – 4 tháng",
+      "Trên 4 tháng"
     ],
     "correct": 0
   },
   {
-    "question": "Câu 62. Thái độ xử trí thai chết lưu tại y tế cơ sở là:",
+    "question": "Bài 4 - Câu 24. Nhiệt độ nước thích hợp để pha sữa cho trẻ dưới 2 tháng tuổi là:",
     "options": [
-      "Nếu không chảy máu thì nạo thai lưu.",
-      "Chỉ chuyển tuyến nếu chảy máu nhiều.",
-      "Chuyển tuyến.",
-      "Nạo thai lưu."
+      "30 – 35°C",
+      "35 – 40°C",
+      "45 – 50°C",
+      "55 – 60°C"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 63. Trong những tháng cuối thai kỳ, dấu hiệu sớm nhất của thai chết lưu:",
+    "question": "Bài 4 - Câu 25. Công thức Phinkelstein được dùng để tính lượng sữa cho trẻ:",
     "options": [
-      "Sản phụ thấy tiết sữa non.",
-      "Sản phụ không thấy thai máy.",
-      "Định lượng HCG âm tính.",
-      "X quang thấy dấu hiệu Spalding."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 64. Thai chết lưu có thể gây biến chứng:",
-    "options": [
-      "Sản giật.",
-      "Nhau bong non.",
-      "Nhau tiền đạo.",
-      "Rối loạn đông máu."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 65. Triệu chứng có giá trị nhất để chẩn đoán thai chết lưu dưới 20 tuần là:",
-    "options": [
-      "Ra huyết âm đạo.",
-      "Hết nghén.",
-      "Bụng bé dần.",
-      "Siêu âm."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 66. Vị trí bám của bánh nhau trong nhau tiền đạo trung tâm là:",
-    "options": [
-      "Toàn bộ bánh nhau bám vào đoạn dưới tử cung.",
-      "Bánh nhau che lấp một phần lỗ trong cổ tử cung.",
-      "Một phần bánh nhau bám vào đoạn dưới tử cung.",
-      "Che lấp toàn bộ lỗ trong cổ tử cung."
-    ],
-    "correct": 3
-  },
-  {
-    "question": "Câu 67. Khi mép bánh nhau bám sát lỗ trong cổ tử cung, đây là hình thái nhau tiền đạo:",
-    "options": [
-      "Bám thấp.",
-      "Bám mép.",
-      "Bám bên.",
-      "Bám bán trung tâm."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 68. Tất cả các câu sau đây về tính chất chảy máu trong nhau tiền đạo đều đúng, ngoại trừ:",
-    "options": [
-      "Chảy máu tự nhiên.",
-      "Chảy máu tái phát.",
-      "Máu loãng không đông.",
-      "Chảy máu tự cầm."
+      "Trên 2 tháng tuổi",
+      "6 – 12 tháng tuổi",
+      "Trong tuần đầu sau sinh",
+      "Trên 1 tuổi"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 69. Nhau tiền đạo là một bệnh lý sản khoa gây chảy máu ở:",
+    "question": "Bài 4 - Câu 26. Ăn bổ sung được bắt đầu tốt nhất khi trẻ ở độ tuổi:",
     "options": [
-      "3 tháng đầu của thời kỳ thai nghén.",
-      "3 tháng giữa của thời kỳ thai nghén.",
-      "3 tháng cuối của thời kỳ thai nghén.",
-      "Bất kỳ thời điểm nào của thời kỳ thai nghén."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 70. Triệu chứng chính của nhau tiền đạo:",
-    "options": [
-      "Có cơn co tử cung.",
-      "Ra máu âm đạo.",
-      "Tim thai suy.",
-      "Ối vỡ sớm."
+      "4 – 5 tháng",
+      "5 – 6 tháng",
+      "6 – 7 tháng",
+      "7 – 8 tháng"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 71. Điểm khác biệt quan trọng nhất về tính chất ra máu giữa nhau tiền đạo và nhau bong non là:",
+    "question": "Bài 4 - Câu 27. Trung tâm của ô vuông thức ăn theo WHO đối với trẻ bú mẹ là:",
     "options": [
-      "Nhau tiền đạo ra máu đỏ tươi, nhau bong non ra máu bầm đen không đông.",
-      "Nhau tiền đạo ra máu có kèm đau bụng, nhau bong non không đau bụng.",
-      "Nhau tiền đạo ra máu bầm đen, nhau bong non ra máu đỏ tươi.",
-      "Nhau tiền đạo ra máu cục, nhau bong non ra máu loãng."
+      "Thịt cá",
+      "Rau quả",
+      "Dầu mỡ",
+      "Sữa mẹ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 4 - Câu 28. Nguyên tắc cho trẻ ăn dặm đúng là:",
+    "options": [
+      "Từ đặc đến loãng",
+      "Từ nhiều đến ít",
+      "Từ dễ tiêu đến khó tiêu",
+      "Cho ăn ngay thức ăn thô"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 29. Thức ăn cung cấp nhiều năng lượng nhất cho trẻ là:",
+    "options": [
+      "Glucid",
+      "Protein",
+      "Lipid",
+      "Vitamin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 4 - Câu 30. Trẻ từ 18 tháng tuổi trở lên có thể bắt đầu ăn:",
+    "options": [
+      "Bột loãng",
+      "Cháo loãng",
+      "Cháo thịt, cháo cá",
+      "Sữa hoàn toàn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 1. Trẻ sơ sinh được coi là khỏe mạnh khi cân nặng lúc đẻ:",
+    "options": [
+      "≥ 2,0 kg",
+      "≥ 2,3 kg",
+      "≥ 2,5 kg",
+      "≥ 2,8 kg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 2. Chiều dài trung bình của trẻ sơ sinh đủ tháng là:",
+    "options": [
+      "45 – 46 cm",
+      "47 – 48 cm",
+      "49 – 50 cm",
+      "51 – 52 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 3. Nhịp thở bình thường của trẻ sơ sinh khỏe mạnh là:",
+    "options": [
+      "30 – 35 lần/phút",
+      "35 – 40 lần/phút",
+      "40 – 60 lần/phút",
+      "60 – 70 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 4. Nhịp tim trung bình của trẻ sơ sinh khỏe mạnh khoảng:",
+    "options": [
+      "100 lần/phút",
+      "110 lần/phút",
+      "120 lần/phút",
+      "140 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 5. Đặc điểm tiêu hóa của trẻ sơ sinh khỏe mạnh là:",
+    "options": [
+      "Bú kém, ỉa chậm",
+      "Bú khỏe, ỉa phân su ngay ngày đầu",
+      "Chỉ bú sau 24 giờ",
+      "Ít đi ngoài trong 2 ngày đầu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 6. Vàng da sinh lý ở trẻ sơ sinh thường xuất hiện vào ngày:",
+    "options": [
+      "Ngày 1 sau đẻ",
+      "Ngày 2 – 5 sau đẻ",
+      "Ngày 6 – 8 sau đẻ",
+      "Sau 10 ngày"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 7. Vàng da sinh lý ở trẻ sơ sinh thường tự hết sau:",
+    "options": [
+      "3 – 5 ngày",
+      "5 – 7 ngày",
+      "7 – 10 ngày",
+      "Trên 14 ngày"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 8. Sụt cân sinh lý ở trẻ sơ sinh thường xuất hiện vào:",
+    "options": [
+      "Ngày thứ 1",
+      "Ngày thứ 2",
+      "Ngày thứ 3",
+      "Ngày thứ 5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 9. Tỷ lệ sụt cân sinh lý bình thường của trẻ sơ sinh là:",
+    "options": [
+      "3 – 5 %",
+      "4 – 6 %",
+      "6 – 9 %",
+      "10 – 12 %"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 10. Biến động sinh dục sinh lý ở trẻ sơ sinh có thể kéo dài:",
+    "options": [
+      "1 – 2 ngày",
+      "3 – 5 ngày",
+      "Vài ngày đến vài tuần",
+      "Trên 2 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 11. Việc đầu tiên cần làm ngay sau khi trẻ ra đời là:",
+    "options": [
+      "Cắt rốn",
+      "Cho bú ngay",
+      "Quấn trẻ bằng khăn khô và ấm",
+      "Đánh giá giới tính"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 12. Khi trẻ khóc to ngay sau sinh thì xử trí đường thở đúng là:",
+    "options": [
+      "Hút mũi họng ngay",
+      "Không cần hút",
+      "Đặt nội khí quản",
+      "Vỗ rung lồng ngực"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 13. Thời điểm cho trẻ bú mẹ lần đầu thích hợp nhất là:",
+    "options": [
+      "Sau 30 phút",
+      "Sau 1 – 2 giờ sau đẻ",
+      "Sau 6 giờ",
+      "Sau 24 giờ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 14. Trẻ sơ sinh nên được theo dõi sát sau đẻ trong thời gian:",
+    "options": [
+      "30 phút",
+      "1 giờ",
+      "2 giờ",
+      "6 giờ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 15. Rốn trẻ sơ sinh thường rụng vào khoảng:",
+    "options": [
+      "Ngày 3 – 4",
+      "Ngày 4 – 5",
+      "Ngày 5 – 7",
+      "Ngày 8 – 10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 16. Dấu hiệu nào sau đây là biểu hiện bệnh lý ở trẻ sơ sinh?",
+    "options": [
+      "Bú khỏe",
+      "Ngủ yên",
+      "Vàng da kéo dài trên 10 ngày",
+      "Khóc to"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 17. Nhịp thở được coi là bất thường ở trẻ sơ sinh khi:",
+    "options": [
+      "45 lần/phút",
+      "50 lần/phút",
+      "> 60 lần/phút",
+      "55 lần/phút"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 18. Dấu hiệu nguy hiểm về tiêu hóa ở trẻ sơ sinh là:",
+    "options": [
+      "Ỉa phân su ngày đầu",
+      "Nôn ra dịch vàng",
+      "Bú nhiều",
+      "Đi ngoài phân su đen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 19. Nhiễm khuẩn sơ sinh thường xảy ra trong thời gian:",
+    "options": [
+      "7 ngày đầu",
+      "14 ngày đầu",
+      "21 ngày đầu",
+      "Tháng đầu sau sinh"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 5 - Câu 20. Trẻ dưới 1 tuần tuổi bị nhiễm khuẩn thường nặng do:",
+    "options": [
+      "Miễn dịch hoàn chỉnh",
+      "Dễ tổn thương nhiều cơ quan",
+      "Ít tiếp xúc vi khuẩn",
+      "Được bảo vệ hoàn toàn bởi mẹ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 21. Bệnh nhiễm khuẩn thường gặp ở trẻ trên 1 tuần tuổi là:",
+    "options": [
+      "Uốn ván rốn",
+      "Viêm phổi, nhiễm trùng huyết, viêm màng não",
+      "Cúm mùa",
+      "Lao sơ nhiễm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 22. Vi khuẩn thường gặp nhất gây nhiễm khuẩn sơ sinh là:",
+    "options": [
+      "Liên cầu nhóm B",
+      "Tụ cầu vàng",
+      "Phế cầu",
+      "Não mô cầu"
     ],
     "correct": 0
   },
   {
-    "question": "Câu 72. Ở tuyến cơ sở, khi phát hiện sản phụ nghi ngờ nhau tiền đạo đang ra máu nhiều, thái độ xử trí đúng nhất là:",
+    "question": "Bài 5 - Câu 23. Yếu tố nguy cơ quan trọng gây nhiễm khuẩn sơ sinh là:",
     "options": [
-      "Khám âm đạo bằng tay để xác định loại nhau tiền đạo.",
-      "Đặt mỏ vịt kiểm tra cổ tử cung xem có polyp không.",
-      "Lập đường truyền tĩnh mạch, hồi sức chống sốc và chuyển tuyến cấp cứu có nhân viên y tế đi kèm.",
-      "Cho sản phụ nằm bất động tại chỗ và theo dõi thêm 24 giờ."
+      "Trẻ đủ tháng",
+      "Vỡ ối kéo dài trên 24 giờ",
+      "Đẻ thường",
+      "Trẻ gái"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 24. Nguyên nhân chính gây bệnh uốn ván rốn là:",
+    "options": [
+      "Virus",
+      "Vi khuẩn tụ cầu",
+      "Nha bào uốn ván xâm nhập qua rốn",
+      "Dị ứng thuốc"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 73. Biến chứng nguy hiểm nhất đối với thai nhi trong bệnh lý nhau tiền đạo là gì?",
+    "question": "Bài 5 - Câu 25. Thời gian ủ bệnh trung bình của uốn ván rốn là:",
     "options": [
-      "Dị dạng bẩm sinh.",
-      "Thai chết lưu do nhiễm độc.",
-      "Suy thai mãn tính và sinh non.",
-      "Thai quá ngày tuổi."
+      "3 ngày",
+      "5 ngày",
+      "7 ngày",
+      "14 ngày"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 74. Hình thái nhau tiền đạo nào sau đây bắt buộc phải mổ lấy thai tuyệt đối khi có chuyển dạ?",
+    "question": "Bài 5 - Câu 26. Triệu chứng sớm nhất của uốn ván rốn là:",
     "options": [
-      "Nhau bám thấp.",
-      "Nhau bám mép.",
-      "Nhau tiền đạo bán trung tâm.",
-      "Nhau tiền đạo trung tâm."
+      "Co giật toàn thân",
+      "Sốt cao",
+      "Cứng hàm",
+      "Thở nhanh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 27. Khi chăm sóc trẻ uốn ván rốn cần đặt trẻ ở môi trường:",
+    "options": [
+      "Nhiều ánh sáng",
+      "Ồn ào",
+      "Yên tĩnh, ít kích thích",
+      "Nhiệt độ thấp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 5 - Câu 28. Biện pháp phòng uốn ván rốn hiệu quả nhất là:",
+    "options": [
+      "Cho trẻ bú mẹ sớm",
+      "Tiêm phòng cho mẹ khi mang thai",
+      "Tắm trẻ hằng ngày",
+      "Băng rốn kín"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 29. Trong lập kế hoạch chăm sóc, việc theo dõi quan trọng nhất là:",
+    "options": [
+      "Cân nặng",
+      "Các dấu hiệu sinh tồn",
+      "Màu tóc",
+      "Chiều dài cơ thể"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 5 - Câu 30. Đánh giá kết quả chăm sóc trẻ sơ sinh được chia thành:",
+    "options": [
+      "2 mức độ",
+      "3 mức độ",
+      "4 mức độ",
+      "5 mức độ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 1. Thấp tim là bệnh lý thuộc nhóm nào sau đây?",
+    "options": [
+      "Bệnh di truyền bẩm sinh",
+      "Bệnh chuyển hóa",
+      "Bệnh nhiễm trùng – nhiễm độc – miễn dịch",
+      "Bệnh thoái hóa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 2. Tác nhân gây thấp tim được xác định rõ nhất là:",
+    "options": [
+      "Tụ cầu vàng",
+      "Liên cầu trùng β tan huyết nhóm A",
+      "Phế cầu",
+      "Virus cúm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 3. Thấp tim chỉ xảy ra sau khi trẻ mắc bệnh nào sau đây?",
+    "options": [
+      "Viêm phổi",
+      "Viêm phế quản",
+      "Viêm họng hoặc viêm amiđan do liên cầu",
+      "Viêm tai giữa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 4. Nhóm tuổi thường gặp bệnh thấp tim nhất là:",
+    "options": [
+      "1 – 5 tuổi",
+      "5 – 7 tuổi",
+      "7 – 15 tuổi",
+      "Trên 15 tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 5. Cơ địa nào làm tăng nguy cơ mắc thấp tim?",
+    "options": [
+      "Cơ địa béo phì",
+      "Cơ địa dị ứng",
+      "Cơ địa suy dinh dưỡng",
+      "Cơ địa thấp còi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 6. Yếu tố gia đình ảnh hưởng đến nguy cơ thấp tim được thể hiện bằng:",
+    "options": [
+      "Trẻ sinh non",
+      "Có người thân bị bệnh thấp tim",
+      "Gia đình đông con",
+      "Cha mẹ hút thuốc lá"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 7. Điều kiện sinh hoạt làm tăng nguy cơ thấp tim là:",
+    "options": [
+      "Nhà ở rộng rãi",
+      "Vệ sinh tốt",
+      "Kinh tế khá giả",
+      "Nhà chật chội, vệ sinh kém"
     ],
     "correct": 3
   },
   {
-    "question": "Câu 75. Biến chứng nào sau đây ở người mẹ thường xảy ra sau khi sổ nhau ở ca nhau tiền đạo?",
+    "question": "Bài 6 - Câu 8. Mùa dễ làm trẻ mắc thấp tim hơn là:",
     "options": [
-      "Đờ tử cung do cơ tử cung đoạn dưới co hồi kém gây băng huyết.",
-      "Thủng tử cung.",
-      "Lộn tử cung.",
-      "Nhiễm trùng ối cấp tính."
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Câu 76. Trong nhau bong non, khối huyết tụ sau nhau được hình thành do sự tổn thương của hệ thống mạch máu nào?",
-    "options": [
-      "Mạch máu của dây rốn.",
-      "Các mạch máu xoang tử cung - nhau (động mạch xoắn của niêm mạc tử cung).",
-      "Mạch máu hệ thống của thai nhi.",
-      "Mạch máu vùng cổ tử cung."
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Câu 77. Cơ chế chính gây tử vong thai nhi rất nhanh trong nhau bong non thể nặng là:",
-    "options": [
-      "Thai nhi bị nhiễm trùng từ khối huyết tụ.",
-      "Mẹ bị tụt huyết áp.",
-      "Bánh nhau bong ra hoàn toàn làm cắt đứt đột ngột nguồn cung cấp oxy cho thai.",
-      "Do tử cung co bóp quá mạnh làm vỡ sọ thai."
+      "Mùa hè nóng",
+      "Mùa khô",
+      "Mùa lạnh, ẩm",
+      "Mùa nắng"
     ],
     "correct": 2
   },
   {
-    "question": "Câu 78. Triệu chứng thực thể đặc trưng nhất khi sờ nắn bụng của bệnh nhân bị nhau bong non thể nặng là:",
+    "question": "Bài 6 - Câu 9. Cơ chế bệnh sinh của thấp tim được công nhận nhiều nhất hiện nay là:",
     "options": [
-      "Tử cung mềm mại, dễ sờ thấy các phần của thai.",
-      "Bụng chướng đều, gõ vang.",
-      "Tử cung co cứng liên tục như gỗ và đau dữ dội.",
-      "Tử cung có kích thước nhỏ hơn nhiều so với tuổi thai."
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Câu 79. Hiện tượng Couvelaire (phong huyết tử cung - nhau) trong nhau bong non là tình trạng:",
-    "options": [
-      "Máu tràn vào buồng ối làm nước ối có màu đỏ.",
-      "Máu thấm vào lớp cơ tử cung gây tổn thương các sợi cơ và làm tử cung có màu tím đen.",
-      "Máu chảy ra ngoài âm đạo quá nhiều làm mẹ bị sốc.",
-      "Nhau bị bong ra và đẩy thẳng vào trong ổ bụng."
+      "Nhiễm virus – miễn dịch",
+      "Nhiễm trùng – nhiễm độc – miễn dịch",
+      "Dị ứng đơn thuần",
+      "Rối loạn chuyển hóa"
     ],
     "correct": 1
   },
   {
-    "question": "Câu 80. Chẩn đoán phân biệt quan trọng nhất của nhau bong non thể nhẹ khi có chuyển dạ là với bệnh lý nào?",
+    "question": "Bài 6 - Câu 10. Phản ứng miễn dịch trong thấp tim xảy ra do:",
     "options": [
-      "Dọa vỡ tử cung.",
-      "Thai lưu chưa chuyển dạ.",
-      "Nhau tiền đạo trung tâm.",
-      "Vỡ ối sớm."
+      "Kháng nguyên liên cầu giống tổ chức cơ tim",
+      "Liên cầu phá hủy trực tiếp cơ tim",
+      "Thiếu oxy kéo dài",
+      "Rối loạn đông máu"
     ],
     "correct": 0
+  },
+  {
+    "question": "Bài 6 - Câu 11. Nguyên nhân khiến thấp tim dễ tái phát là do:",
+    "options": [
+      "Điều trị kháng sinh không đủ liều",
+      "Sau mỗi lần nhiễm liên cầu lại xảy ra viêm miễn dịch",
+      "Sức đề kháng yếu bẩm sinh",
+      "Không nghỉ ngơi hợp lý"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 12. Giai đoạn tổn thương giải phẫu bệnh có thể hồi phục hoàn toàn là:",
+    "options": [
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bài 6 - Câu 13. Giai đoạn nào bắt đầu hình thành hạt thấp trong cơ tim?",
+    "options": [
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 14. Di chứng van tim hình thành ở giai đoạn nào?",
+    "options": [
+      "Giai đoạn 1",
+      "Giai đoạn 2",
+      "Giai đoạn 3",
+      "Giai đoạn 4"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bài 6 - Câu 15. Thời gian để hình thành di chứng van tim thường kéo dài:",
+    "options": [
+      "1 – 3 tháng",
+      "3 – 4 tháng",
+      "6 tháng – 1 năm",
+      "Trên 2 năm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 16. Thời gian xuất hiện triệu chứng thấp tim thường sau nhiễm liên cầu:",
+    "options": [
+      "3 – 5 ngày",
+      "1 tuần",
+      "2 – 4 tuần hoặc lâu hơn",
+      "Trên 6 tháng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 17. Đặc điểm điển hình của viêm khớp trong thấp tim là:",
+    "options": [
+      "Viêm khớp nhỏ, kéo dài",
+      "Viêm khớp di chuyển",
+      "Viêm khớp có di chứng",
+      "Viêm khớp đối xứng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 18. Thời gian viêm của mỗi khớp trong thể điển hình thường là:",
+    "options": [
+      "1 – 2 ngày",
+      "3 – 7 ngày",
+      "2 – 3 tuần",
+      "Trên 1 tháng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 19. Tổn thương tim gặp nhiều nhất trong thấp tim là:",
+    "options": [
+      "Viêm màng ngoài tim",
+      "Viêm nội tâm mạc",
+      "Viêm cơ tim",
+      "Viêm tim toàn bộ"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 20. Di chứng van tim hay gặp nhất do thấp tim là:",
+    "options": [
+      "Hẹp van động mạch chủ",
+      "Hở van 2 lá",
+      "Hẹp van 2 lá đơn thuần",
+      "Hở van động mạch phổi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 21. Viêm màng ngoài tim trong thấp tim thường có đặc điểm:",
+    "options": [
+      "Tràn dịch nhiều, để lại di chứng",
+      "Tràn dịch ít, khỏi không để lại di chứng",
+      "Gây suy tim mạn sớm",
+      "Tiến triển rất chậm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 22. Múa giật Sydenham thường gặp nhất ở đối tượng nào?",
+    "options": [
+      "Trẻ trai",
+      "Trẻ gái",
+      "Trẻ dưới 3 tuổi",
+      "Người lớn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 23. Đặc điểm đúng của múa giật Sydenham là:",
+    "options": [
+      "Mất ý thức",
+      "Tăng khi xúc động, mất khi ngủ",
+      "Để lại di chứng thần kinh",
+      "Luôn kèm sốt cao"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 24. Xét nghiệm kháng thể kháng liên cầu thường tăng trong thấp tim là:",
+    "options": [
+      "CRP",
+      "ALSO",
+      "Hb",
+      "Tiểu cầu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bài 6 - Câu 25. Thay đổi điện tâm đồ thường gặp trong thấp tim là:",
+    "options": [
+      "QT ngắn",
+      "ST chênh cao",
+      "PQ kéo dài",
+      "Block nhánh"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bài 6 - Câu 26. Kháng sinh hàng đầu dùng diệt liên cầu trong điều trị thấp tim là:",
+    "options": [
+      "Cephalosporin",
+      "Penicillin",
+      "Gentamycin",
+      "Tetracyclin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 27: Khi chăm sóc trẻ uốn ván rốn cần đặt trẻ ở môi trường:",
+    "options": [
+      "Nhiều ánh sáng",
+      "Ồn ào",
+      "Yên tĩnh, ít kích thích",
+      "Nhiệt độ thấp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 28: Biện pháp phòng uốn ván rốn hiệu quả nhất là:",
+    "options": [
+      "Cho trẻ bú mẹ sớm",
+      "Tiêm phòng cho mẹ khi mang thai",
+      "Tắm trẻ hằng ngày",
+      "Băng rốn kín"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 29: Trong lập kế hoạch chăm sóc, việc theo dõi quan trọng nhất là:",
+    "options": [
+      "Cân nặng",
+      "Các dấu hiệu sinh tồn",
+      "Màu tóc",
+      "Chiều dài cơ thể"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 30: Đánh giá kết quả chăm sóc trẻ sơ sinh được chia thành:",
+    "options": [
+      "2 mức độ",
+      "3 mức độ",
+      "4 mức độ",
+      "5 mức độ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 1 (Bài 6): Thấp tim là bệnh lý thuộc nhóm nào sau đây?",
+    "options": [
+      "Bệnh di truyền bẩm sinh",
+      "Bệnh chuyển hóa",
+      "Bệnh nhiễm trùng – nhiễm độc – miễn dịch",
+      "Bệnh thoái hóa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 2 (Bài 6): Tác nhân gây thấp tim được xác định rõ nhất là:",
+    "options": [
+      "Tụ cầu vàng",
+      "Liên cầu trùng β tan huyết nhóm A",
+      "Phế cầu",
+      "Virus cúm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3 (Bài 6): Thấp tim chỉ xảy ra sau khi trẻ mắc bệnh nào sau đây?",
+    "options": [
+      "Viêm phổi",
+      "Viêm phế quản",
+      "Viêm họng hoặc viêm amiđan do liên cầu",
+      "Viêm tai giữa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 4 (Bài 6): Nhóm tuổi thường gặp bệnh thấp tim nhất là:",
+    "options": [
+      "1 – 5 tuổi",
+      "5 – 7 tuổi",
+      "7 – 15 tuổi",
+      "Trên 15 tuổi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 5 (Bài 6): Cơ địa nào làm tăng nguy cơ mắc thấp tim?",
+    "options": [
+      "Cơ địa béo phì",
+      "Cơ địa dị ứng",
+      "Cơ địa suy dinh dưỡng",
+      "Cơ địa thấp còi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 6 (Bài 6): Yếu tố gia đình ảnh hưởng đến nguy cơ thấp tim được thể hiện bằng:",
+    "options": [
+      "Trẻ sinh non",
+      "Có người thân bị bệnh thấp tim",
+      "Gia đình đông con",
+      "Cha mẹ hút thuốc lá"
+    ],
+    "correct": 1
   }
 ]
